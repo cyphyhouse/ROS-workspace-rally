@@ -1,0 +1,5117 @@
+rel_theta = 1.94734
+ref_theta = 2.35967
+theta = 0.412324
+rel_x = -2.14319
+rel_y = 2.12836
+rel_rad = 3.02046
+
+rel_theta = 1.94774
+ref_theta = 2.35985
+theta = 0.412109
+rel_x = -2.14341
+rel_y = 2.12781
+rel_rad = 3.02023
+
+rel_theta = 1.94725
+ref_theta = 2.35954
+theta = 0.412298
+rel_x = -2.14333
+rel_y = 2.12902
+rel_rad = 3.02103
+
+rel_theta = 1.94762
+ref_theta = 2.35926
+theta = 0.41164
+rel_x = -2.14268
+rel_y = 2.12957
+rel_rad = 3.02095
+
+rel_theta = 1.94687
+ref_theta = 2.35854
+theta = 0.41167
+rel_x = -2.14134
+rel_y = 2.13134
+rel_rad = 3.02125
+
+rel_theta = 1.94715
+ref_theta = 2.35922
+theta = 0.412066
+rel_x = -2.1421
+rel_y = 2.12918
+rel_rad = 3.02026
+
+rel_theta = 1.94757
+ref_theta = 2.35881
+theta = 0.411248
+rel_x = -2.14059
+rel_y = 2.1294
+rel_rad = 3.01935
+
+rel_theta = 1.94725
+ref_theta = 2.35834
+theta = 0.411084
+rel_x = -2.14135
+rel_y = 2.13219
+rel_rad = 3.02186
+
+rel_theta = 1.9473
+ref_theta = 2.35995
+theta = 0.412642
+rel_x = -2.14355
+rel_y = 2.12752
+rel_rad = 3.02012
+
+rel_theta = 1.94763
+ref_theta = 2.35984
+theta = 0.412216
+rel_x = -2.14326
+rel_y = 2.12768
+rel_rad = 3.02003
+
+rel_theta = 1.94692
+ref_theta = 2.35854
+theta = 0.411622
+rel_x = -2.1423
+rel_y = 2.13226
+rel_rad = 3.02258
+
+rel_theta = 1.94743
+ref_theta = 2.35917
+theta = 0.411735
+rel_x = -2.14206
+rel_y = 2.12936
+rel_rad = 3.02036
+
+rel_theta = 1.94692
+ref_theta = 2.35828
+theta = 0.411359
+rel_x = -2.14196
+rel_y = 2.13306
+rel_rad = 3.0229
+
+rel_theta = 1.94731
+ref_theta = 2.35907
+theta = 0.411759
+rel_x = -2.14223
+rel_y = 2.12994
+rel_rad = 3.02089
+
+rel_theta = 1.94775
+ref_theta = 2.35965
+theta = 0.4119
+rel_x = -2.14277
+rel_y = 2.128
+rel_rad = 3.01991
+
+rel_theta = 1.94723
+ref_theta = 2.35901
+theta = 0.411782
+rel_x = -2.14158
+rel_y = 2.12954
+rel_rad = 3.02015
+
+rel_theta = 1.94732
+ref_theta = 2.35912
+theta = 0.411802
+rel_x = -2.14249
+rel_y = 2.13
+rel_rad = 3.02112
+
+rel_theta = 1.94782
+ref_theta = 2.35952
+theta = 0.411706
+rel_x = -2.14242
+rel_y = 2.1282
+rel_rad = 3.0198
+
+rel_theta = 1.94702
+ref_theta = 2.35895
+theta = 0.411933
+rel_x = -2.14256
+rel_y = 2.13078
+rel_rad = 3.02172
+
+rel_theta = 1.94692
+ref_theta = 2.35875
+theta = 0.411826
+rel_x = -2.14236
+rel_y = 2.13144
+rel_rad = 3.02204
+
+rel_theta = 1.94653
+ref_theta = 2.35758
+theta = 0.41105
+rel_x = -2.14072
+rel_y = 2.13481
+rel_rad = 3.02326
+
+rel_theta = 1.94728
+ref_theta = 2.35925
+theta = 0.411964
+rel_x = -2.14263
+rel_y = 2.12958
+rel_rad = 3.02093
+
+rel_theta = 1.94677
+ref_theta = 2.35819
+theta = 0.41142
+rel_x = -2.14143
+rel_y = 2.13292
+rel_rad = 3.02243
+
+rel_theta = 1.94747
+ref_theta = 2.35912
+theta = 0.411648
+rel_x = -2.14181
+rel_y = 2.12931
+rel_rad = 3.02015
+
+rel_theta = 1.94746
+ref_theta = 2.35839
+theta = 0.410933
+rel_x = -2.14147
+rel_y = 2.13209
+rel_rad = 3.02188
+
+rel_theta = 1.94761
+ref_theta = 2.35899
+theta = 0.41138
+rel_x = -2.14076
+rel_y = 2.12881
+rel_rad = 3.01905
+
+rel_theta = 1.9466
+ref_theta = 2.35811
+theta = 0.411513
+rel_x = -2.14173
+rel_y = 2.13354
+rel_rad = 3.02308
+
+rel_theta = 1.94793
+ref_theta = 2.36008
+theta = 0.412151
+rel_x = -2.14281
+rel_y = 2.12622
+rel_rad = 3.01868
+
+rel_theta = 1.94793
+ref_theta = 2.35955
+theta = 0.411624
+rel_x = -2.14155
+rel_y = 2.12721
+rel_rad = 3.01849
+
+rel_theta = 1.9478
+ref_theta = 2.35936
+theta = 0.411556
+rel_x = -2.14118
+rel_y = 2.12767
+rel_rad = 3.01854
+
+rel_theta = 1.94718
+ref_theta = 2.35865
+theta = 0.411476
+rel_x = -2.14201
+rel_y = 2.13151
+rel_rad = 3.02184
+
+rel_theta = 1.94735
+ref_theta = 2.35962
+theta = 0.412272
+rel_x = -2.14399
+rel_y = 2.12934
+rel_rad = 3.02172
+
+rel_theta = 1.94717
+ref_theta = 2.35911
+theta = 0.411931
+rel_x = -2.14307
+rel_y = 2.13063
+rel_rad = 3.02197
+
+rel_theta = 1.94708
+ref_theta = 2.35907
+theta = 0.411994
+rel_x = -2.14244
+rel_y = 2.13015
+rel_rad = 3.02119
+
+rel_theta = 1.94706
+ref_theta = 2.35893
+theta = 0.411866
+rel_x = -2.14271
+rel_y = 2.13103
+rel_rad = 3.022
+
+rel_theta = 1.94704
+ref_theta = 2.35919
+theta = 0.412153
+rel_x = -2.14289
+rel_y = 2.13009
+rel_rad = 3.02147
+
+rel_theta = 1.94791
+ref_theta = 2.35972
+theta = 0.411811
+rel_x = -2.14293
+rel_y = 2.12788
+rel_rad = 3.01993
+
+rel_theta = 1.9477
+ref_theta = 2.35997
+theta = 0.412275
+rel_x = -2.14327
+rel_y = 2.12714
+rel_rad = 3.01965
+
+rel_theta = 1.94742
+ref_theta = 2.35955
+theta = 0.412124
+rel_x = -2.14319
+rel_y = 2.12887
+rel_rad = 3.02082
+
+rel_theta = 1.94702
+ref_theta = 2.35895
+theta = 0.411928
+rel_x = -2.14329
+rel_y = 2.13151
+rel_rad = 3.02276
+
+rel_theta = 1.94796
+ref_theta = 2.3601
+theta = 0.412142
+rel_x = -2.14287
+rel_y = 2.12618
+rel_rad = 3.0187
+
+rel_theta = 1.94745
+ref_theta = 2.35968
+theta = 0.412229
+rel_x = -2.14229
+rel_y = 2.12742
+rel_rad = 3.01916
+
+rel_theta = 1.94758
+ref_theta = 2.35903
+theta = 0.411451
+rel_x = -2.14135
+rel_y = 2.12924
+rel_rad = 3.01978
+
+rel_theta = 1.94705
+ref_theta = 2.35925
+theta = 0.412199
+rel_x = -2.14369
+rel_y = 2.13064
+rel_rad = 3.02242
+
+rel_theta = 1.94666
+ref_theta = 2.35808
+theta = 0.411422
+rel_x = -2.14229
+rel_y = 2.13423
+rel_rad = 3.02397
+
+rel_theta = 1.94748
+ref_theta = 2.35914
+theta = 0.411658
+rel_x = -2.14189
+rel_y = 2.12933
+rel_rad = 3.02022
+
+rel_theta = 1.94652
+ref_theta = 2.35822
+theta = 0.411697
+rel_x = -2.14257
+rel_y = 2.13391
+rel_rad = 3.02393
+
+rel_theta = 1.9473
+ref_theta = 2.35928
+theta = 0.41198
+rel_x = -2.14242
+rel_y = 2.12926
+rel_rad = 3.02055
+
+rel_theta = 1.94707
+ref_theta = 2.35888
+theta = 0.41182
+rel_x = -2.14223
+rel_y = 2.13073
+rel_rad = 3.02145
+
+rel_theta = 1.94757
+ref_theta = 2.35954
+theta = 0.411973
+rel_x = -2.14307
+rel_y = 2.12878
+rel_rad = 3.02067
+
+rel_theta = 1.94707
+ref_theta = 2.35834
+theta = 0.411269
+rel_x = -2.14147
+rel_y = 2.13232
+rel_rad = 3.02203
+
+rel_theta = 1.94745
+ref_theta = 2.35886
+theta = 0.411409
+rel_x = -2.14114
+rel_y = 2.12977
+rel_rad = 3.02
+
+rel_theta = 1.94672
+ref_theta = 2.35829
+theta = 0.411571
+rel_x = -2.14041
+rel_y = 2.13145
+rel_rad = 3.02066
+
+rel_theta = 1.94726
+ref_theta = 2.35923
+theta = 0.411965
+rel_x = -2.14158
+rel_y = 2.12863
+rel_rad = 3.01951
+
+rel_theta = 1.94804
+ref_theta = 2.36026
+theta = 0.41222
+rel_x = -2.14367
+rel_y = 2.12632
+rel_rad = 3.01936
+
+rel_theta = 1.94724
+ref_theta = 2.35904
+theta = 0.411808
+rel_x = -2.14207
+rel_y = 2.1299
+rel_rad = 3.02075
+
+rel_theta = 1.94721
+ref_theta = 2.35909
+theta = 0.41188
+rel_x = -2.14313
+rel_y = 2.13074
+rel_rad = 3.0221
+
+rel_theta = 1.94677
+ref_theta = 2.35827
+theta = 0.411504
+rel_x = -2.14187
+rel_y = 2.13298
+rel_rad = 3.02278
+
+rel_theta = 1.9474
+ref_theta = 2.35927
+theta = 0.411869
+rel_x = -2.14259
+rel_y = 2.12944
+rel_rad = 3.0208
+
+rel_theta = 1.94704
+ref_theta = 2.35927
+theta = 0.412223
+rel_x = -2.1433
+rel_y = 2.13018
+rel_rad = 3.02182
+
+rel_theta = 1.94694
+ref_theta = 2.35861
+theta = 0.411671
+rel_x = -2.14223
+rel_y = 2.13189
+rel_rad = 3.02227
+
+rel_theta = 1.94761
+ref_theta = 2.35958
+theta = 0.411975
+rel_x = -2.14259
+rel_y = 2.12812
+rel_rad = 3.01986
+
+rel_theta = 1.94704
+ref_theta = 2.35864
+theta = 0.411603
+rel_x = -2.14249
+rel_y = 2.13204
+rel_rad = 3.02256
+
+rel_theta = 1.9471
+ref_theta = 2.35903
+theta = 0.41193
+rel_x = -2.14299
+rel_y = 2.13089
+rel_rad = 3.0221
+
+rel_theta = 1.94674
+ref_theta = 2.35832
+theta = 0.411576
+rel_x = -2.14186
+rel_y = 2.13278
+rel_rad = 3.02263
+
+rel_theta = 1.94679
+ref_theta = 2.35818
+theta = 0.41139
+rel_x = -2.14179
+rel_y = 2.13328
+rel_rad = 3.02294
+
+rel_theta = 1.94719
+ref_theta = 2.35916
+theta = 0.411971
+rel_x = -2.14348
+rel_y = 2.13079
+rel_rad = 3.02238
+
+rel_theta = 1.94725
+ref_theta = 2.3597
+theta = 0.412456
+rel_x = -2.14321
+rel_y = 2.12823
+rel_rad = 3.02038
+
+rel_theta = 1.94682
+ref_theta = 2.35795
+theta = 0.411121
+rel_x = -2.14092
+rel_y = 2.13344
+rel_rad = 3.02243
+
+rel_theta = 1.94739
+ref_theta = 2.35887
+theta = 0.41148
+rel_x = -2.14224
+rel_y = 2.13081
+rel_rad = 3.02151
+
+rel_theta = 1.94714
+ref_theta = 2.35874
+theta = 0.411607
+rel_x = -2.14215
+rel_y = 2.13126
+rel_rad = 3.02177
+
+rel_theta = 1.94715
+ref_theta = 2.35852
+theta = 0.411365
+rel_x = -2.14062
+rel_y = 2.1307
+rel_rad = 3.02029
+
+rel_theta = 1.94698
+ref_theta = 2.35882
+theta = 0.411835
+rel_x = -2.14313
+rel_y = 2.13192
+rel_rad = 3.02293
+
+rel_theta = 1.94681
+ref_theta = 2.35848
+theta = 0.411672
+rel_x = -2.14192
+rel_y = 2.13215
+rel_rad = 3.02223
+
+rel_theta = 1.94684
+ref_theta = 2.35843
+theta = 0.41159
+rel_x = -2.1419
+rel_y = 2.13234
+rel_rad = 3.02235
+
+rel_theta = 1.94822
+ref_theta = 2.35962
+theta = 0.411398
+rel_x = -2.14265
+rel_y = 2.12803
+rel_rad = 3.01985
+
+rel_theta = 1.94832
+ref_theta = 2.36034
+theta = 0.412026
+rel_x = -2.14384
+rel_y = 2.12613
+rel_rad = 3.01935
+
+rel_theta = 1.948
+ref_theta = 2.35961
+theta = 0.41161
+rel_x = -2.14163
+rel_y = 2.12706
+rel_rad = 3.01844
+
+rel_theta = 1.94751
+ref_theta = 2.35895
+theta = 0.411433
+rel_x = -2.14195
+rel_y = 2.1302
+rel_rad = 3.02087
+
+rel_theta = 1.94753
+ref_theta = 2.35881
+theta = 0.411277
+rel_x = -2.14091
+rel_y = 2.12975
+rel_rad = 3.01983
+
+rel_theta = 1.94791
+ref_theta = 2.3586
+theta = 0.410694
+rel_x = -2.14024
+rel_y = 2.12996
+rel_rad = 3.0195
+
+rel_theta = 1.94805
+ref_theta = 2.35945
+theta = 0.4114
+rel_x = -2.14147
+rel_y = 2.12757
+rel_rad = 3.01869
+
+rel_theta = 1.94825
+ref_theta = 2.35989
+theta = 0.411643
+rel_x = -2.14225
+rel_y = 2.12647
+rel_rad = 3.01846
+
+rel_theta = 1.94783
+ref_theta = 2.35898
+theta = 0.411146
+rel_x = -2.14144
+rel_y = 2.12956
+rel_rad = 3.02007
+
+rel_theta = 1.94727
+ref_theta = 2.35919
+theta = 0.411918
+rel_x = -2.14268
+rel_y = 2.12987
+rel_rad = 3.02117
+
+rel_theta = 1.94733
+ref_theta = 2.35915
+theta = 0.411818
+rel_x = -2.14223
+rel_y = 2.12961
+rel_rad = 3.02066
+
+rel_theta = 1.94773
+ref_theta = 2.35949
+theta = 0.411765
+rel_x = -2.14247
+rel_y = 2.12838
+rel_rad = 3.01996
+
+rel_theta = 1.94784
+ref_theta = 2.35917
+theta = 0.411328
+rel_x = -2.14132
+rel_y = 2.12861
+rel_rad = 3.01931
+
+rel_theta = 1.94829
+ref_theta = 2.35994
+theta = 0.411645
+rel_x = -2.1428
+rel_y = 2.12682
+rel_rad = 3.0191
+
+rel_theta = 1.94775
+ref_theta = 2.36044
+theta = 0.41269
+rel_x = -2.14448
+rel_y = 2.12636
+rel_rad = 3.01997
+
+rel_theta = 1.94752
+ref_theta = 2.36016
+theta = 0.412644
+rel_x = -2.14419
+rel_y = 2.12725
+rel_rad = 3.02039
+
+rel_theta = 1.94756
+ref_theta = 2.36033
+theta = 0.412767
+rel_x = -2.14458
+rel_y = 2.12691
+rel_rad = 3.02043
+
+rel_theta = 1.94688
+ref_theta = 2.36117
+theta = 0.41429
+rel_x = -2.14805
+rel_y = 2.12677
+rel_rad = 3.02279
+
+rel_theta = 1.94777
+ref_theta = 2.36161
+theta = 0.413834
+rel_x = -2.14757
+rel_y = 2.12445
+rel_rad = 3.02082
+
+rel_theta = 1.94822
+ref_theta = 2.36185
+theta = 0.413625
+rel_x = -2.14768
+rel_y = 2.12353
+rel_rad = 3.02025
+
+rel_theta = 1.94762
+ref_theta = 2.36116
+theta = 0.413536
+rel_x = -2.14661
+rel_y = 2.12541
+rel_rad = 3.02081
+
+rel_theta = 1.94807
+ref_theta = 2.36098
+theta = 0.412906
+rel_x = -2.14564
+rel_y = 2.12521
+rel_rad = 3.01998
+
+rel_theta = 1.94785
+ref_theta = 2.36044
+theta = 0.412588
+rel_x = -2.14445
+rel_y = 2.12632
+rel_rad = 3.01991
+
+rel_theta = 1.94719
+ref_theta = 2.35936
+theta = 0.412175
+rel_x = -2.14307
+rel_y = 2.12953
+rel_rad = 3.0212
+
+rel_theta = 1.94765
+ref_theta = 2.36013
+theta = 0.41248
+rel_x = -2.14392
+rel_y = 2.1271
+rel_rad = 3.02009
+
+rel_theta = 1.94814
+ref_theta = 2.35997
+theta = 0.411825
+rel_x = -2.14226
+rel_y = 2.12617
+rel_rad = 3.01826
+
+rel_theta = 1.9464
+ref_theta = 2.35754
+theta = 0.411138
+rel_x = -2.14005
+rel_y = 2.13431
+rel_rad = 3.02244
+
+rel_theta = 1.94723
+ref_theta = 2.35924
+theta = 0.412002
+rel_x = -2.14265
+rel_y = 2.12965
+rel_rad = 3.02099
+
+rel_theta = 1.94706
+ref_theta = 2.35999
+theta = 0.41293
+rel_x = -2.1444
+rel_y = 2.1282
+rel_rad = 3.02121
+
+rel_theta = 1.94687
+ref_theta = 2.35891
+theta = 0.412033
+rel_x = -2.1425
+rel_y = 2.1309
+rel_rad = 3.02176
+
+rel_theta = 1.94721
+ref_theta = 2.36014
+theta = 0.412933
+rel_x = -2.14287
+rel_y = 2.12603
+rel_rad = 3.01859
+
+rel_theta = 1.94695
+ref_theta = 2.36
+theta = 0.413048
+rel_x = -2.14416
+rel_y = 2.12791
+rel_rad = 3.02083
+
+rel_theta = 1.94696
+ref_theta = 2.36006
+theta = 0.413101
+rel_x = -2.14496
+rel_y = 2.12846
+rel_rad = 3.02178
+
+rel_theta = 1.94659
+ref_theta = 2.35974
+theta = 0.413147
+rel_x = -2.14485
+rel_y = 2.12971
+rel_rad = 3.02258
+
+rel_theta = 1.94662
+ref_theta = 2.36059
+theta = 0.413967
+rel_x = -2.14637
+rel_y = 2.1276
+rel_rad = 3.02219
+
+rel_theta = 1.94691
+ref_theta = 2.36069
+theta = 0.413781
+rel_x = -2.14602
+rel_y = 2.1268
+rel_rad = 3.02137
+
+rel_theta = 1.94706
+ref_theta = 2.36208
+theta = 0.415019
+rel_x = -2.14967
+rel_y = 2.12452
+rel_rad = 3.02236
+
+rel_theta = 1.94655
+ref_theta = 2.3612
+theta = 0.41465
+rel_x = -2.14818
+rel_y = 2.12676
+rel_rad = 3.02287
+
+rel_theta = 1.94721
+ref_theta = 2.36087
+theta = 0.41366
+rel_x = -2.14678
+rel_y = 2.12681
+rel_rad = 3.02192
+
+rel_theta = 1.94694
+ref_theta = 2.35969
+theta = 0.412745
+rel_x = -2.14462
+rel_y = 2.12968
+rel_rad = 3.0224
+
+rel_theta = 1.94712
+ref_theta = 2.35937
+theta = 0.412244
+rel_x = -2.14223
+rel_y = 2.12868
+rel_rad = 3.02
+
+rel_theta = 1.94702
+ref_theta = 2.35884
+theta = 0.411816
+rel_x = -2.14115
+rel_y = 2.12987
+rel_rad = 3.02008
+
+rel_theta = 1.94712
+ref_theta = 2.35877
+theta = 0.411654
+rel_x = -2.14131
+rel_y = 2.13029
+rel_rad = 3.02048
+
+rel_theta = 1.94744
+ref_theta = 2.35998
+theta = 0.412536
+rel_x = -2.14346
+rel_y = 2.12728
+rel_rad = 3.01989
+
+rel_theta = 1.94711
+ref_theta = 2.35792
+theta = 0.410812
+rel_x = -2.13923
+rel_y = 2.13186
+rel_rad = 3.02012
+
+rel_theta = 1.94703
+ref_theta = 2.35759
+theta = 0.410562
+rel_x = -2.13851
+rel_y = 2.13255
+rel_rad = 3.0201
+
+rel_theta = 1.94781
+ref_theta = 2.35891
+theta = 0.411093
+rel_x = -2.1385
+rel_y = 2.12693
+rel_rad = 3.01612
+
+rel_theta = 1.94703
+ref_theta = 2.35738
+theta = 0.410349
+rel_x = -2.1375
+rel_y = 2.13244
+rel_rad = 3.0193
+
+rel_theta = 1.94657
+ref_theta = 2.35657
+theta = 0.410002
+rel_x = -2.13668
+rel_y = 2.13508
+rel_rad = 3.02059
+
+rel_theta = 1.94652
+ref_theta = 2.35629
+theta = 0.409768
+rel_x = -2.13584
+rel_y = 2.13544
+rel_rad = 3.02026
+
+rel_theta = 1.94661
+ref_theta = 2.35735
+theta = 0.410744
+rel_x = -2.13772
+rel_y = 2.13277
+rel_rad = 3.01969
+
+rel_theta = 1.94727
+ref_theta = 2.35794
+theta = 0.410668
+rel_x = -2.13756
+rel_y = 2.13011
+rel_rad = 3.01771
+
+rel_theta = 1.94721
+ref_theta = 2.35794
+theta = 0.410733
+rel_x = -2.13877
+rel_y = 2.13129
+rel_rad = 3.01939
+
+rel_theta = 1.94627
+ref_theta = 2.35657
+theta = 0.410306
+rel_x = -2.13724
+rel_y = 2.13563
+rel_rad = 3.02137
+
+rel_theta = 1.94687
+ref_theta = 2.35764
+theta = 0.410765
+rel_x = -2.1383
+rel_y = 2.13214
+rel_rad = 3.01966
+
+rel_theta = 1.94688
+ref_theta = 2.35707
+theta = 0.410185
+rel_x = -2.13688
+rel_y = 2.13315
+rel_rad = 3.01937
+
+rel_theta = 1.94636
+ref_theta = 2.35685
+theta = 0.410498
+rel_x = -2.13794
+rel_y = 2.13512
+rel_rad = 3.02151
+
+rel_theta = 1.94682
+ref_theta = 2.35715
+theta = 0.410326
+rel_x = -2.13632
+rel_y = 2.13226
+rel_rad = 3.01835
+
+rel_theta = 1.94647
+ref_theta = 2.35705
+theta = 0.410579
+rel_x = -2.13646
+rel_y = 2.1328
+rel_rad = 3.01883
+
+rel_theta = 1.94638
+ref_theta = 2.35621
+theta = 0.409825
+rel_x = -2.13638
+rel_y = 2.13632
+rel_rad = 3.02125
+
+rel_theta = 1.94513
+ref_theta = 2.35505
+theta = 0.409917
+rel_x = -2.13398
+rel_y = 2.13888
+rel_rad = 3.02137
+
+rel_theta = 1.94565
+ref_theta = 2.35581
+theta = 0.410154
+rel_x = -2.13458
+rel_y = 2.13624
+rel_rad = 3.01993
+
+rel_theta = 1.94587
+ref_theta = 2.35554
+theta = 0.409663
+rel_x = -2.13416
+rel_y = 2.13697
+rel_rad = 3.02015
+
+rel_theta = 1.94592
+ref_theta = 2.35654
+theta = 0.410628
+rel_x = -2.13601
+rel_y = 2.13452
+rel_rad = 3.01972
+
+rel_theta = 1.94596
+ref_theta = 2.35627
+theta = 0.410304
+rel_x = -2.13423
+rel_y = 2.13392
+rel_rad = 3.01803
+
+rel_theta = 1.94658
+ref_theta = 2.35651
+theta = 0.409934
+rel_x = -2.13472
+rel_y = 2.13337
+rel_rad = 3.01799
+
+rel_theta = 1.94666
+ref_theta = 2.35697
+theta = 0.410313
+rel_x = -2.13519
+rel_y = 2.13188
+rel_rad = 3.01727
+
+rel_theta = 1.9458
+ref_theta = 2.35492
+theta = 0.409126
+rel_x = -2.12942
+rel_y = 2.13485
+rel_rad = 3.0153
+
+rel_theta = 1.94618
+ref_theta = 2.35556
+theta = 0.40938
+rel_x = -2.13217
+rel_y = 2.13488
+rel_rad = 3.01726
+
+rel_theta = 1.94671
+ref_theta = 2.35627
+theta = 0.409565
+rel_x = -2.13371
+rel_y = 2.13338
+rel_rad = 3.01729
+
+rel_theta = 1.94761
+ref_theta = 2.35879
+theta = 0.411176
+rel_x = -2.13916
+rel_y = 2.12809
+rel_rad = 3.01742
+
+rel_theta = 1.9477
+ref_theta = 2.35866
+theta = 0.410961
+rel_x = -2.13949
+rel_y = 2.12897
+rel_rad = 3.01827
+
+rel_theta = 1.94665
+ref_theta = 2.3567
+theta = 0.410055
+rel_x = -2.13739
+rel_y = 2.13522
+rel_rad = 3.02119
+
+rel_theta = 1.94742
+ref_theta = 2.35902
+theta = 0.411599
+rel_x = -2.14023
+rel_y = 2.12818
+rel_rad = 3.01823
+
+rel_theta = 1.94731
+ref_theta = 2.35786
+theta = 0.410557
+rel_x = -2.13626
+rel_y = 2.12913
+rel_rad = 3.01609
+
+rel_theta = 1.9463
+ref_theta = 2.35635
+theta = 0.410052
+rel_x = -2.13476
+rel_y = 2.13408
+rel_rad = 3.01852
+
+rel_theta = 1.94641
+ref_theta = 2.35674
+theta = 0.410333
+rel_x = -2.13535
+rel_y = 2.13303
+rel_rad = 3.0182
+
+rel_theta = 1.94602
+ref_theta = 2.35623
+theta = 0.410211
+rel_x = -2.13467
+rel_y = 2.1345
+rel_rad = 3.01876
+
+rel_theta = 1.9461
+ref_theta = 2.3564
+theta = 0.410301
+rel_x = -2.13646
+rel_y = 2.1356
+rel_rad = 3.0208
+
+rel_theta = 1.94603
+ref_theta = 2.35557
+theta = 0.409537
+rel_x = -2.13439
+rel_y = 2.13708
+rel_rad = 3.02038
+
+rel_theta = 1.94544
+ref_theta = 2.35448
+theta = 0.409036
+rel_x = -2.13215
+rel_y = 2.1395
+rel_rad = 3.02051
+
+rel_theta = 1.94538
+ref_theta = 2.35483
+theta = 0.409448
+rel_x = -2.13394
+rel_y = 2.13979
+rel_rad = 3.02199
+
+rel_theta = 1.94601
+ref_theta = 2.35604
+theta = 0.410025
+rel_x = -2.13725
+rel_y = 2.13793
+rel_rad = 3.02301
+
+rel_theta = 1.9439
+ref_theta = 2.35324
+theta = 0.409339
+rel_x = -2.13328
+rel_y = 2.14591
+rel_rad = 3.02586
+
+rel_theta = 1.94435
+ref_theta = 2.35389
+theta = 0.409545
+rel_x = -2.13621
+rel_y = 2.14606
+rel_rad = 3.02803
+
+rel_theta = 1.94402
+ref_theta = 2.35467
+theta = 0.410644
+rel_x = -2.13951
+rel_y = 2.14605
+rel_rad = 3.03035
+
+rel_theta = 1.94462
+ref_theta = 2.35888
+theta = 0.414253
+rel_x = -2.15297
+rel_y = 2.14146
+rel_rad = 3.03663
+
+rel_theta = 1.94534
+ref_theta = 2.36706
+theta = 0.42172
+rel_x = -2.17205
+rel_y = 2.12535
+rel_rad = 3.0389
+
+rel_theta = 1.9456
+ref_theta = 2.3629
+theta = 0.417304
+rel_x = -2.15742
+rel_y = 2.12866
+rel_rad = 3.03078
+
+rel_theta = 1.94598
+ref_theta = 2.36319
+theta = 0.417215
+rel_x = -2.15499
+rel_y = 2.12505
+rel_rad = 3.02652
+
+rel_theta = 1.94515
+ref_theta = 2.36209
+theta = 0.416941
+rel_x = -2.15465
+rel_y = 2.1294
+rel_rad = 3.02933
+
+rel_theta = 1.9462
+ref_theta = 2.36414
+theta = 0.417935
+rel_x = -2.15763
+rel_y = 2.12363
+rel_rad = 3.02741
+
+rel_theta = 1.94583
+ref_theta = 2.36339
+theta = 0.417566
+rel_x = -2.15722
+rel_y = 2.12638
+rel_rad = 3.02904
+
+rel_theta = 1.94544
+ref_theta = 2.36373
+theta = 0.418291
+rel_x = -2.15906
+rel_y = 2.12677
+rel_rad = 3.03062
+
+rel_theta = 1.94555
+ref_theta = 2.36409
+theta = 0.418542
+rel_x = -2.15955
+rel_y = 2.1257
+rel_rad = 3.03022
+
+rel_theta = 1.94583
+ref_theta = 2.36457
+theta = 0.418743
+rel_x = -2.16068
+rel_y = 2.12477
+rel_rad = 3.03038
+
+rel_theta = 1.94546
+ref_theta = 2.36352
+theta = 0.418053
+rel_x = -2.15852
+rel_y = 2.12714
+rel_rad = 3.0305
+
+rel_theta = 1.94598
+ref_theta = 2.36384
+theta = 0.417858
+rel_x = -2.15841
+rel_y = 2.12567
+rel_rad = 3.02939
+
+rel_theta = 1.94621
+ref_theta = 2.36473
+theta = 0.418517
+rel_x = -2.15986
+rel_y = 2.12331
+rel_rad = 3.02877
+
+rel_theta = 1.94669
+ref_theta = 2.36506
+theta = 0.41837
+rel_x = -2.16016
+rel_y = 2.1222
+rel_rad = 3.0282
+
+rel_theta = 1.94632
+ref_theta = 2.36529
+theta = 0.418971
+rel_x = -2.16287
+rel_y = 2.12389
+rel_rad = 3.03132
+
+rel_theta = 1.946
+ref_theta = 2.36526
+theta = 0.419252
+rel_x = -2.16464
+rel_y = 2.12577
+rel_rad = 3.0339
+
+rel_theta = 1.946
+ref_theta = 2.36582
+theta = 0.419823
+rel_x = -2.16574
+rel_y = 2.12443
+rel_rad = 3.03375
+
+rel_theta = 1.94597
+ref_theta = 2.36556
+theta = 0.419594
+rel_x = -2.16655
+rel_y = 2.12633
+rel_rad = 3.03566
+
+rel_theta = 1.94572
+ref_theta = 2.36578
+theta = 0.420066
+rel_x = -2.16749
+rel_y = 2.12632
+rel_rad = 3.03632
+
+rel_theta = 1.94583
+ref_theta = 2.36694
+theta = 0.42111
+rel_x = -2.17064
+rel_y = 2.12449
+rel_rad = 3.03729
+
+rel_theta = 1.94626
+ref_theta = 2.36834
+theta = 0.422076
+rel_x = -2.17359
+rel_y = 2.12144
+rel_rad = 3.03727
+
+rel_theta = 1.94551
+ref_theta = 2.36641
+theta = 0.420905
+rel_x = -2.17068
+rel_y = 2.12677
+rel_rad = 3.03891
+
+rel_theta = 1.94549
+ref_theta = 2.36474
+theta = 0.419246
+rel_x = -2.16729
+rel_y = 2.13056
+rel_rad = 3.03915
+
+rel_theta = 1.94534
+ref_theta = 2.36092
+theta = 0.415577
+rel_x = -2.15467
+rel_y = 2.13442
+rel_rad = 3.03288
+
+rel_theta = 1.9448
+ref_theta = 2.36003
+theta = 0.415229
+rel_x = -2.15286
+rel_y = 2.13642
+rel_rad = 3.033
+
+rel_theta = 1.9461
+ref_theta = 2.36191
+theta = 0.415806
+rel_x = -2.15325
+rel_y = 2.12879
+rel_rad = 3.02791
+
+rel_theta = 1.94584
+ref_theta = 2.36288
+theta = 0.417036
+rel_x = -2.15557
+rel_y = 2.12695
+rel_rad = 3.02827
+
+rel_theta = 1.9464
+ref_theta = 2.36119
+theta = 0.414785
+rel_x = -2.14854
+rel_y = 2.12719
+rel_rad = 3.02344
+
+rel_theta = 1.94668
+ref_theta = 2.36345
+theta = 0.416766
+rel_x = -2.15361
+rel_y = 2.12258
+rel_rad = 3.0238
+
+rel_theta = 1.94716
+ref_theta = 2.36398
+theta = 0.416821
+rel_x = -2.15434
+rel_y = 2.12105
+rel_rad = 3.02325
+
+rel_theta = 1.94656
+ref_theta = 2.36329
+theta = 0.416733
+rel_x = -2.15346
+rel_y = 2.12311
+rel_rad = 3.02407
+
+rel_theta = 1.94689
+ref_theta = 2.36396
+theta = 0.41707
+rel_x = -2.15465
+rel_y = 2.12144
+rel_rad = 3.02375
+
+rel_theta = 1.94706
+ref_theta = 2.36237
+theta = 0.41531
+rel_x = -2.14871
+rel_y = 2.12234
+rel_rad = 3.02014
+
+rel_theta = 1.94573
+ref_theta = 2.36401
+theta = 0.41828
+rel_x = -2.15807
+rel_y = 2.12458
+rel_rad = 3.02838
+
+rel_theta = 1.94498
+ref_theta = 2.36328
+theta = 0.418302
+rel_x = -2.16169
+rel_y = 2.13127
+rel_rad = 3.03566
+
+rel_theta = 1.94487
+ref_theta = 2.36989
+theta = 0.425022
+rel_x = -2.18388
+rel_y = 2.12485
+rel_rad = 3.04702
+
+rel_theta = 1.94459
+ref_theta = 2.36961
+theta = 0.425018
+rel_x = -2.18311
+rel_y = 2.12531
+rel_rad = 3.04679
+
+rel_theta = 1.94384
+ref_theta = 2.37062
+theta = 0.426781
+rel_x = -2.18664
+rel_y = 2.12443
+rel_rad = 3.0487
+
+rel_theta = 1.94456
+ref_theta = 2.37032
+theta = 0.425761
+rel_x = -2.18471
+rel_y = 2.12385
+rel_rad = 3.04692
+
+rel_theta = 1.94545
+ref_theta = 2.37063
+theta = 0.425173
+rel_x = -2.18462
+rel_y = 2.12246
+rel_rad = 3.04588
+
+rel_theta = 1.94443
+ref_theta = 2.37035
+theta = 0.425916
+rel_x = -2.18342
+rel_y = 2.12247
+rel_rad = 3.04503
+
+rel_theta = 1.94508
+ref_theta = 2.3685
+theta = 0.423417
+rel_x = -2.17748
+rel_y = 2.12453
+rel_rad = 3.04222
+
+rel_theta = 1.9446
+ref_theta = 2.36672
+theta = 0.422115
+rel_x = -2.17414
+rel_y = 2.12884
+rel_rad = 3.04283
+
+rel_theta = 1.94501
+ref_theta = 2.36628
+theta = 0.421275
+rel_x = -2.17175
+rel_y = 2.12838
+rel_rad = 3.04081
+
+rel_theta = 1.94465
+ref_theta = 2.36697
+theta = 0.422325
+rel_x = -2.17278
+rel_y = 2.12645
+rel_rad = 3.04019
+
+rel_theta = 1.94425
+ref_theta = 2.36564
+theta = 0.421393
+rel_x = -2.1696
+rel_y = 2.129
+rel_rad = 3.0397
+
+rel_theta = 1.94386
+ref_theta = 2.36579
+theta = 0.421931
+rel_x = -2.16872
+rel_y = 2.12751
+rel_rad = 3.03803
+
+rel_theta = 1.94107
+ref_theta = 2.36454
+theta = 0.423475
+rel_x = -2.16472
+rel_y = 2.12888
+rel_rad = 3.03614
+
+rel_theta = 1.93649
+ref_theta = 2.3646
+theta = 0.428107
+rel_x = -2.1656
+rel_y = 2.1295
+rel_rad = 3.03721
+
+rel_theta = 1.93119
+ref_theta = 2.36393
+theta = 0.432742
+rel_x = -2.16317
+rel_y = 2.12997
+rel_rad = 3.0358
+
+rel_theta = 1.9244
+ref_theta = 2.36397
+theta = 0.439571
+rel_x = -2.16308
+rel_y = 2.12971
+rel_rad = 3.03555
+
+rel_theta = 1.91694
+ref_theta = 2.36477
+theta = 0.447826
+rel_x = -2.16657
+rel_y = 2.12973
+rel_rad = 3.03805
+
+rel_theta = 1.90904
+ref_theta = 2.3642
+theta = 0.455164
+rel_x = -2.16485
+rel_y = 2.13045
+rel_rad = 3.03733
+
+rel_theta = 1.90137
+ref_theta = 2.36428
+theta = 0.462909
+rel_x = -2.16522
+rel_y = 2.13048
+rel_rad = 3.03761
+
+rel_theta = 1.8944
+ref_theta = 2.36374
+theta = 0.469334
+rel_x = -2.16403
+rel_y = 2.13162
+rel_rad = 3.03757
+
+rel_theta = 1.88783
+ref_theta = 2.36375
+theta = 0.475922
+rel_x = -2.16474
+rel_y = 2.13226
+rel_rad = 3.03853
+
+rel_theta = 1.88174
+ref_theta = 2.36257
+theta = 0.480826
+rel_x = -2.16264
+rel_y = 2.13525
+rel_rad = 3.03913
+
+rel_theta = 1.8769
+ref_theta = 2.36173
+theta = 0.484828
+rel_x = -2.16106
+rel_y = 2.13728
+rel_rad = 3.03944
+
+rel_theta = 1.87312
+ref_theta = 2.36263
+theta = 0.489506
+rel_x = -2.16325
+rel_y = 2.13559
+rel_rad = 3.03981
+
+rel_theta = 1.87145
+ref_theta = 2.36039
+theta = 0.488939
+rel_x = -2.15756
+rel_y = 2.13953
+rel_rad = 3.03853
+
+rel_theta = 1.87057
+ref_theta = 2.36048
+theta = 0.489911
+rel_x = -2.15791
+rel_y = 2.13948
+rel_rad = 3.03874
+
+rel_theta = 1.86888
+ref_theta = 2.35864
+theta = 0.489759
+rel_x = -2.15421
+rel_y = 2.1437
+rel_rad = 3.03909
+
+rel_theta = 1.8673
+ref_theta = 2.3595
+theta = 0.4922
+rel_x = -2.1552
+rel_y = 2.14099
+rel_rad = 3.03788
+
+rel_theta = 1.86421
+ref_theta = 2.36005
+theta = 0.495842
+rel_x = -2.15763
+rel_y = 2.14107
+rel_rad = 3.03966
+
+rel_theta = 1.86076
+ref_theta = 2.36
+theta = 0.499234
+rel_x = -2.15829
+rel_y = 2.14194
+rel_rad = 3.04074
+
+rel_theta = 1.85573
+ref_theta = 2.36025
+theta = 0.504513
+rel_x = -2.15888
+rel_y = 2.14146
+rel_rad = 3.04082
+
+rel_theta = 1.84945
+ref_theta = 2.36025
+theta = 0.510798
+rel_x = -2.15987
+rel_y = 2.14243
+rel_rad = 3.04221
+
+rel_theta = 1.84234
+ref_theta = 2.36007
+theta = 0.517724
+rel_x = -2.16065
+rel_y = 2.14398
+rel_rad = 3.04385
+
+rel_theta = 1.83522
+ref_theta = 2.35915
+theta = 0.523927
+rel_x = -2.15787
+rel_y = 2.14516
+rel_rad = 3.04271
+
+rel_theta = 1.82691
+ref_theta = 2.35938
+theta = 0.532461
+rel_x = -2.15876
+rel_y = 2.14507
+rel_rad = 3.04329
+
+rel_theta = 1.81928
+ref_theta = 2.35819
+theta = 0.538917
+rel_x = -2.15548
+rel_y = 2.14688
+rel_rad = 3.04223
+
+rel_theta = 1.81032
+ref_theta = 2.35854
+theta = 0.548224
+rel_x = -2.1574
+rel_y = 2.14729
+rel_rad = 3.04388
+
+rel_theta = 1.80239
+ref_theta = 2.35768
+theta = 0.555284
+rel_x = -2.15679
+rel_y = 2.1504
+rel_rad = 3.04564
+
+rel_theta = 1.79705
+ref_theta = 2.35584
+theta = 0.558792
+rel_x = -2.1514
+rel_y = 2.15292
+rel_rad = 3.04361
+
+rel_theta = 1.7899
+ref_theta = 2.35703
+theta = 0.567133
+rel_x = -2.15623
+rel_y = 2.15263
+rel_rad = 3.04682
+
+rel_theta = 1.78462
+ref_theta = 2.3576
+theta = 0.572983
+rel_x = -2.15806
+rel_y = 2.15201
+rel_rad = 3.04769
+
+rel_theta = 1.77991
+ref_theta = 2.35399
+theta = 0.574089
+rel_x = -2.14904
+rel_y = 2.15852
+rel_rad = 3.04591
+
+rel_theta = 1.77475
+ref_theta = 2.35409
+theta = 0.57934
+rel_x = -2.15013
+rel_y = 2.15919
+rel_rad = 3.04716
+
+rel_theta = 1.77252
+ref_theta = 2.3545
+theta = 0.581985
+rel_x = -2.15069
+rel_y = 2.15798
+rel_rad = 3.0467
+
+rel_theta = 1.7695
+ref_theta = 2.35372
+theta = 0.584218
+rel_x = -2.14949
+rel_y = 2.16016
+rel_rad = 3.04739
+
+rel_theta = 1.76699
+ref_theta = 2.35376
+theta = 0.586766
+rel_x = -2.1502
+rel_y = 2.16069
+rel_rad = 3.04827
+
+rel_theta = 1.76512
+ref_theta = 2.35381
+theta = 0.588684
+rel_x = -2.14999
+rel_y = 2.16029
+rel_rad = 3.04783
+
+rel_theta = 1.76317
+ref_theta = 2.35405
+theta = 0.590885
+rel_x = -2.15112
+rel_y = 2.16037
+rel_rad = 3.04869
+
+rel_theta = 1.76093
+ref_theta = 2.35222
+theta = 0.591289
+rel_x = -2.1464
+rel_y = 2.16352
+rel_rad = 3.0476
+
+rel_theta = 1.75886
+ref_theta = 2.35279
+theta = 0.593931
+rel_x = -2.14747
+rel_y = 2.16215
+rel_rad = 3.04738
+
+rel_theta = 1.75644
+ref_theta = 2.35247
+theta = 0.596033
+rel_x = -2.14697
+rel_y = 2.16301
+rel_rad = 3.04763
+
+rel_theta = 1.7531
+ref_theta = 2.35203
+theta = 0.598929
+rel_x = -2.14744
+rel_y = 2.1654
+rel_rad = 3.04966
+
+rel_theta = 1.74981
+ref_theta = 2.3515
+theta = 0.601693
+rel_x = -2.14605
+rel_y = 2.1663
+rel_rad = 3.04932
+
+rel_theta = 1.74609
+ref_theta = 2.35206
+theta = 0.605971
+rel_x = -2.14735
+rel_y = 2.16518
+rel_rad = 3.04944
+
+rel_theta = 1.74132
+ref_theta = 2.3518
+theta = 0.610476
+rel_x = -2.14731
+rel_y = 2.16627
+rel_rad = 3.05019
+
+rel_theta = 1.73584
+ref_theta = 2.35152
+theta = 0.615673
+rel_x = -2.14705
+rel_y = 2.16724
+rel_rad = 3.0507
+
+rel_theta = 1.72927
+ref_theta = 2.35025
+theta = 0.620979
+rel_x = -2.14427
+rel_y = 2.16993
+rel_rad = 3.05066
+
+rel_theta = 1.72209
+ref_theta = 2.35058
+theta = 0.628492
+rel_x = -2.1465
+rel_y = 2.17072
+rel_rad = 3.05278
+
+rel_theta = 1.71499
+ref_theta = 2.35054
+theta = 0.635551
+rel_x = -2.14644
+rel_y = 2.17087
+rel_rad = 3.05285
+
+rel_theta = 1.70775
+ref_theta = 2.34863
+theta = 0.640874
+rel_x = -2.1426
+rel_y = 2.17527
+rel_rad = 3.05328
+
+rel_theta = 1.69892
+ref_theta = 2.3489
+theta = 0.649986
+rel_x = -2.14406
+rel_y = 2.17556
+rel_rad = 3.05451
+
+rel_theta = 1.69126
+ref_theta = 2.34918
+theta = 0.657912
+rel_x = -2.14453
+rel_y = 2.17484
+rel_rad = 3.05433
+
+rel_theta = 1.68268
+ref_theta = 2.34834
+theta = 0.665663
+rel_x = -2.14202
+rel_y = 2.17594
+rel_rad = 3.05335
+
+rel_theta = 1.673
+ref_theta = 2.34836
+theta = 0.675363
+rel_x = -2.14293
+rel_y = 2.17676
+rel_rad = 3.05457
+
+rel_theta = 1.66394
+ref_theta = 2.3477
+theta = 0.68376
+rel_x = -2.1416
+rel_y = 2.17828
+rel_rad = 3.05472
+
+rel_theta = 1.65361
+ref_theta = 2.34796
+theta = 0.694351
+rel_x = -2.14258
+rel_y = 2.17817
+rel_rad = 3.05534
+
+rel_theta = 1.64263
+ref_theta = 2.34786
+theta = 0.705236
+rel_x = -2.14311
+rel_y = 2.17912
+rel_rad = 3.05638
+
+rel_theta = 1.63146
+ref_theta = 2.34679
+theta = 0.715338
+rel_x = -2.14085
+rel_y = 2.18148
+rel_rad = 3.05648
+
+rel_theta = 1.62068
+ref_theta = 2.34631
+theta = 0.72563
+rel_x = -2.13978
+rel_y = 2.18249
+rel_rad = 3.05646
+
+rel_theta = 1.60788
+ref_theta = 2.34577
+theta = 0.737895
+rel_x = -2.14027
+rel_y = 2.18536
+rel_rad = 3.05885
+
+rel_theta = 1.59656
+ref_theta = 2.34714
+theta = 0.750588
+rel_x = -2.14306
+rel_y = 2.1822
+rel_rad = 3.05855
+
+rel_theta = 1.58494
+ref_theta = 2.34496
+theta = 0.760023
+rel_x = -2.1385
+rel_y = 2.18709
+rel_rad = 3.05885
+
+rel_theta = 1.5734
+ref_theta = 2.34407
+theta = 0.770674
+rel_x = -2.13779
+rel_y = 2.19026
+rel_rad = 3.06062
+
+rel_theta = 1.56222
+ref_theta = 2.34259
+theta = 0.78037
+rel_x = -2.13461
+rel_y = 2.19351
+rel_rad = 3.06073
+
+rel_theta = 1.55148
+ref_theta = 2.34255
+theta = 0.791067
+rel_x = -2.13396
+rel_y = 2.193
+rel_rad = 3.05991
+
+rel_theta = 1.54029
+ref_theta = 2.34107
+theta = 0.800778
+rel_x = -2.13202
+rel_y = 2.19752
+rel_rad = 3.0618
+
+rel_theta = 1.52894
+ref_theta = 2.34029
+theta = 0.811344
+rel_x = -2.13087
+rel_y = 2.19976
+rel_rad = 3.0626
+
+rel_theta = 1.51896
+ref_theta = 2.33907
+theta = 0.820109
+rel_x = -2.12785
+rel_y = 2.20201
+rel_rad = 3.06213
+
+rel_theta = 1.50826
+ref_theta = 2.33825
+theta = 0.829993
+rel_x = -2.12669
+rel_y = 2.20441
+rel_rad = 3.06304
+
+rel_theta = 1.49886
+ref_theta = 2.33641
+theta = 0.837544
+rel_x = -2.12258
+rel_y = 2.20828
+rel_rad = 3.06298
+
+rel_theta = 1.4904
+ref_theta = 2.33548
+theta = 0.845081
+rel_x = -2.12016
+rel_y = 2.20987
+rel_rad = 3.06245
+
+rel_theta = 1.48232
+ref_theta = 2.3358
+theta = 0.853481
+rel_x = -2.12159
+rel_y = 2.20996
+rel_rad = 3.06351
+
+rel_theta = 1.4748
+ref_theta = 2.33467
+theta = 0.85987
+rel_x = -2.11912
+rel_y = 2.21236
+rel_rad = 3.06353
+
+rel_theta = 1.46772
+ref_theta = 2.33451
+theta = 0.866788
+rel_x = -2.11841
+rel_y = 2.21234
+rel_rad = 3.06302
+
+rel_theta = 1.46073
+ref_theta = 2.33351
+theta = 0.872783
+rel_x = -2.11588
+rel_y = 2.21412
+rel_rad = 3.06256
+
+rel_theta = 1.45297
+ref_theta = 2.33392
+theta = 0.880955
+rel_x = -2.11645
+rel_y = 2.21287
+rel_rad = 3.06205
+
+rel_theta = 1.44471
+ref_theta = 2.33217
+theta = 0.887465
+rel_x = -2.11251
+rel_y = 2.21651
+rel_rad = 3.06196
+
+rel_theta = 1.43609
+ref_theta = 2.33289
+theta = 0.896801
+rel_x = -2.1147
+rel_y = 2.21563
+rel_rad = 3.06283
+
+rel_theta = 1.42884
+ref_theta = 2.33153
+theta = 0.902694
+rel_x = -2.10972
+rel_y = 2.21645
+rel_rad = 3.05999
+
+rel_theta = 1.41987
+ref_theta = 2.33176
+theta = 0.911883
+rel_x = -2.11159
+rel_y = 2.2174
+rel_rad = 3.06197
+
+rel_theta = 1.41099
+ref_theta = 2.32969
+theta = 0.918699
+rel_x = -2.10634
+rel_y = 2.22107
+rel_rad = 3.06102
+
+rel_theta = 1.40269
+ref_theta = 2.3278
+theta = 0.925113
+rel_x = -2.10179
+rel_y = 2.22466
+rel_rad = 3.0605
+
+rel_theta = 1.39488
+ref_theta = 2.33036
+theta = 0.935483
+rel_x = -2.10783
+rel_y = 2.21964
+rel_rad = 3.061
+
+rel_theta = 1.3877
+ref_theta = 2.33132
+theta = 0.943613
+rel_x = -2.10871
+rel_y = 2.21632
+rel_rad = 3.0592
+
+rel_theta = 1.38271
+ref_theta = 2.3307
+theta = 0.94799
+rel_x = -2.10727
+rel_y = 2.21756
+rel_rad = 3.05911
+
+rel_theta = 1.37783
+ref_theta = 2.3297
+theta = 0.951866
+rel_x = -2.10526
+rel_y = 2.2199
+rel_rad = 3.05943
+
+rel_theta = 1.37594
+ref_theta = 2.32714
+theta = 0.951199
+rel_x = -2.09815
+rel_y = 2.22376
+rel_rad = 3.05735
+
+rel_theta = 1.37365
+ref_theta = 2.3314
+theta = 0.957749
+rel_x = -2.11018
+rel_y = 2.21749
+rel_rad = 3.06107
+
+rel_theta = 1.37312
+ref_theta = 2.32861
+theta = 0.955491
+rel_x = -2.1034
+rel_y = 2.22277
+rel_rad = 3.06023
+
+rel_theta = 1.37221
+ref_theta = 2.32791
+theta = 0.955691
+rel_x = -2.10246
+rel_y = 2.22491
+rel_rad = 3.06114
+
+rel_theta = 1.3703
+ref_theta = 2.33005
+theta = 0.95975
+rel_x = -2.1087
+rel_y = 2.22194
+rel_rad = 3.06327
+
+rel_theta = 1.36905
+ref_theta = 2.33035
+theta = 0.961299
+rel_x = -2.10793
+rel_y = 2.21982
+rel_rad = 3.0612
+
+rel_theta = 1.36858
+ref_theta = 2.33225
+theta = 0.963666
+rel_x = -2.11256
+rel_y = 2.21625
+rel_rad = 3.06181
+
+rel_theta = 1.36666
+ref_theta = 2.33278
+theta = 0.966127
+rel_x = -2.11372
+rel_y = 2.21508
+rel_rad = 3.06177
+
+rel_theta = 1.36484
+ref_theta = 2.33278
+theta = 0.967941
+rel_x = -2.11346
+rel_y = 2.21481
+rel_rad = 3.06139
+
+rel_theta = 1.36247
+ref_theta = 2.33216
+theta = 0.969685
+rel_x = -2.11328
+rel_y = 2.21739
+rel_rad = 3.06313
+
+rel_theta = 1.35953
+ref_theta = 2.33222
+theta = 0.972692
+rel_x = -2.11351
+rel_y = 2.21736
+rel_rad = 3.06327
+
+rel_theta = 1.35753
+ref_theta = 2.33042
+theta = 0.972884
+rel_x = -2.10832
+rel_y = 2.21992
+rel_rad = 3.06154
+
+rel_theta = 1.35379
+ref_theta = 2.32874
+theta = 0.974942
+rel_x = -2.10616
+rel_y = 2.22512
+rel_rad = 3.06383
+
+rel_theta = 1.35099
+ref_theta = 2.32837
+theta = 0.977375
+rel_x = -2.10462
+rel_y = 2.22514
+rel_rad = 3.06279
+
+rel_theta = 1.34807
+ref_theta = 2.3288
+theta = 0.980724
+rel_x = -2.10594
+rel_y = 2.22461
+rel_rad = 3.06331
+
+rel_theta = 1.34578
+ref_theta = 2.32851
+theta = 0.982728
+rel_x = -2.10517
+rel_y = 2.22507
+rel_rad = 3.06312
+
+rel_theta = 1.34611
+ref_theta = 2.32783
+theta = 0.981716
+rel_x = -2.10275
+rel_y = 2.22558
+rel_rad = 3.06183
+
+rel_theta = 1.34516
+ref_theta = 2.32877
+theta = 0.983613
+rel_x = -2.10584
+rel_y = 2.22463
+rel_rad = 3.06325
+
+rel_theta = 1.34667
+ref_theta = 2.32839
+theta = 0.981717
+rel_x = -2.1029
+rel_y = 2.22321
+rel_rad = 3.0602
+
+rel_theta = 1.34683
+ref_theta = 2.32772
+theta = 0.980886
+rel_x = -2.09988
+rel_y = 2.22301
+rel_rad = 3.05798
+
+rel_theta = 1.34629
+ref_theta = 2.32459
+theta = 0.978296
+rel_x = -2.09114
+rel_y = 2.22769
+rel_rad = 3.05539
+
+rel_theta = 1.34556
+ref_theta = 2.32671
+theta = 0.98115
+rel_x = -2.09447
+rel_y = 2.22175
+rel_rad = 3.05336
+
+rel_theta = 1.34502
+ref_theta = 2.3243
+theta = 0.979283
+rel_x = -2.08674
+rel_y = 2.22428
+rel_rad = 3.04991
+
+rel_theta = 1.34374
+ref_theta = 2.32911
+theta = 0.985374
+rel_x = -2.10162
+rel_y = 2.21865
+rel_rad = 3.05601
+
+rel_theta = 1.34313
+ref_theta = 2.32828
+theta = 0.985145
+rel_x = -2.09824
+rel_y = 2.2188
+rel_rad = 3.05379
+
+rel_theta = 1.34258
+ref_theta = 2.32717
+theta = 0.984583
+rel_x = -2.09713
+rel_y = 2.22255
+rel_rad = 3.05576
+
+rel_theta = 1.3424
+ref_theta = 2.32629
+theta = 0.983894
+rel_x = -2.09328
+rel_y = 2.22236
+rel_rad = 3.05299
+
+rel_theta = 1.3435
+ref_theta = 2.32479
+theta = 0.981286
+rel_x = -2.08894
+rel_y = 2.22445
+rel_rad = 3.05153
+
+rel_theta = 1.34462
+ref_theta = 2.32591
+theta = 0.981289
+rel_x = -2.09091
+rel_y = 2.22156
+rel_rad = 3.05077
+
+rel_theta = 1.34627
+ref_theta = 2.32661
+theta = 0.980341
+rel_x = -2.09428
+rel_y = 2.22202
+rel_rad = 3.05342
+
+rel_theta = 1.34692
+ref_theta = 2.32822
+theta = 0.9813
+rel_x = -2.09854
+rel_y = 2.21936
+rel_rad = 3.05441
+
+rel_theta = 1.34726
+ref_theta = 2.32821
+theta = 0.980952
+rel_x = -2.09967
+rel_y = 2.2206
+rel_rad = 3.05609
+
+rel_theta = 1.34738
+ref_theta = 2.32787
+theta = 0.980488
+rel_x = -2.09818
+rel_y = 2.22053
+rel_rad = 3.05501
+
+rel_theta = 1.34727
+ref_theta = 2.32809
+theta = 0.980819
+rel_x = -2.09838
+rel_y = 2.21979
+rel_rad = 3.05461
+
+rel_theta = 1.34731
+ref_theta = 2.32866
+theta = 0.981353
+rel_x = -2.09907
+rel_y = 2.21795
+rel_rad = 3.05375
+
+rel_theta = 1.34544
+ref_theta = 2.32605
+theta = 0.98061
+rel_x = -2.09202
+rel_y = 2.2221
+rel_rad = 3.05193
+
+rel_theta = 1.34503
+ref_theta = 2.32981
+theta = 0.984781
+rel_x = -2.10225
+rel_y = 2.21621
+rel_rad = 3.05468
+
+rel_theta = 1.34489
+ref_theta = 2.32709
+theta = 0.982191
+rel_x = -2.09481
+rel_y = 2.22045
+rel_rad = 3.05264
+
+rel_theta = 1.34473
+ref_theta = 2.32538
+theta = 0.980649
+rel_x = -2.08956
+rel_y = 2.2225
+rel_rad = 3.05054
+
+rel_theta = 1.34516
+ref_theta = 2.32688
+theta = 0.981724
+rel_x = -2.09391
+rel_y = 2.22041
+rel_rad = 3.052
+
+rel_theta = 1.34586
+ref_theta = 2.32867
+theta = 0.982813
+rel_x = -2.09833
+rel_y = 2.21713
+rel_rad = 3.05265
+
+rel_theta = 1.34491
+ref_theta = 2.32624
+theta = 0.98133
+rel_x = -2.09272
+rel_y = 2.222
+rel_rad = 3.05234
+
+rel_theta = 1.34578
+ref_theta = 2.32472
+theta = 0.978936
+rel_x = -2.08812
+rel_y = 2.22389
+rel_rad = 3.05056
+
+rel_theta = 1.34562
+ref_theta = 2.32381
+theta = 0.978187
+rel_x = -2.08574
+rel_y = 2.2254
+rel_rad = 3.05004
+
+rel_theta = 1.34531
+ref_theta = 2.32608
+theta = 0.980768
+rel_x = -2.09184
+rel_y = 2.22177
+rel_rad = 3.05156
+
+rel_theta = 1.34526
+ref_theta = 2.3275
+theta = 0.98224
+rel_x = -2.09543
+rel_y = 2.21927
+rel_rad = 3.05221
+
+rel_theta = 1.34502
+ref_theta = 2.32772
+theta = 0.982702
+rel_x = -2.09723
+rel_y = 2.22019
+rel_rad = 3.05411
+
+rel_theta = 1.34527
+ref_theta = 2.32497
+theta = 0.9797
+rel_x = -2.08732
+rel_y = 2.22191
+rel_rad = 3.04858
+
+rel_theta = 1.34518
+ref_theta = 2.32496
+theta = 0.979785
+rel_x = -2.08885
+rel_y = 2.22357
+rel_rad = 3.05083
+
+rel_theta = 1.34549
+ref_theta = 2.32363
+theta = 0.978145
+rel_x = -2.08573
+rel_y = 2.22619
+rel_rad = 3.0506
+
+rel_theta = 1.346
+ref_theta = 2.32578
+theta = 0.979786
+rel_x = -2.09215
+rel_y = 2.22342
+rel_rad = 3.05298
+
+rel_theta = 1.34626
+ref_theta = 2.32876
+theta = 0.982499
+rel_x = -2.09886
+rel_y = 2.21732
+rel_rad = 3.05314
+
+rel_theta = 1.34562
+ref_theta = 2.32505
+theta = 0.97943
+rel_x = -2.08872
+rel_y = 2.22306
+rel_rad = 3.05036
+
+rel_theta = 1.34568
+ref_theta = 2.32789
+theta = 0.982212
+rel_x = -2.09598
+rel_y = 2.21812
+rel_rad = 3.05175
+
+rel_theta = 1.34522
+ref_theta = 2.32592
+theta = 0.980701
+rel_x = -2.08989
+rel_y = 2.22041
+rel_rad = 3.04924
+
+rel_theta = 1.34535
+ref_theta = 2.32471
+theta = 0.979363
+rel_x = -2.08656
+rel_y = 2.22225
+rel_rad = 3.0483
+
+rel_theta = 1.34516
+ref_theta = 2.3253
+theta = 0.980145
+rel_x = -2.08808
+rel_y = 2.22126
+rel_rad = 3.04862
+
+rel_theta = 1.34568
+ref_theta = 2.32516
+theta = 0.979482
+rel_x = -2.08832
+rel_y = 2.22213
+rel_rad = 3.04941
+
+rel_theta = 1.34578
+ref_theta = 2.32663
+theta = 0.980853
+rel_x = -2.09267
+rel_y = 2.2202
+rel_rad = 3.051
+
+rel_theta = 1.34607
+ref_theta = 2.32575
+theta = 0.979676
+rel_x = -2.09104
+rel_y = 2.22242
+rel_rad = 3.05149
+
+rel_theta = 1.34659
+ref_theta = 2.32841
+theta = 0.981821
+rel_x = -2.0983
+rel_y = 2.21828
+rel_rad = 3.05346
+
+rel_theta = 1.34583
+ref_theta = 2.32522
+theta = 0.97939
+rel_x = -2.08933
+rel_y = 2.22294
+rel_rad = 3.0507
+
+rel_theta = 1.34533
+ref_theta = 2.32778
+theta = 0.98245
+rel_x = -2.0958
+rel_y = 2.21842
+rel_rad = 3.05185
+
+rel_theta = 1.34527
+ref_theta = 2.32769
+theta = 0.982413
+rel_x = -2.09538
+rel_y = 2.21839
+rel_rad = 3.05153
+
+rel_theta = 1.34494
+ref_theta = 2.32683
+theta = 0.981884
+rel_x = -2.0927
+rel_y = 2.21938
+rel_rad = 3.05042
+
+rel_theta = 1.34276
+ref_theta = 2.32849
+theta = 0.985728
+rel_x = -2.09657
+rel_y = 2.21607
+rel_rad = 3.05067
+
+rel_theta = 1.33865
+ref_theta = 2.32871
+theta = 0.990062
+rel_x = -2.09752
+rel_y = 2.21611
+rel_rad = 3.05135
+
+rel_theta = 1.33312
+ref_theta = 2.32825
+theta = 0.995129
+rel_x = -2.097
+rel_y = 2.21761
+rel_rad = 3.05208
+
+rel_theta = 1.32302
+ref_theta = 2.32831
+theta = 1.00529
+rel_x = -2.09858
+rel_y = 2.21903
+rel_rad = 3.0542
+
+rel_theta = 1.31096
+ref_theta = 2.32678
+theta = 1.01582
+rel_x = -2.09401
+rel_y = 2.22097
+rel_rad = 3.05247
+
+rel_theta = 1.29468
+ref_theta = 2.32662
+theta = 1.03194
+rel_x = -2.09332
+rel_y = 2.22096
+rel_rad = 3.05199
+
+rel_theta = 1.27528
+ref_theta = 2.3259
+theta = 1.05062
+rel_x = -2.0937
+rel_y = 2.22457
+rel_rad = 3.05488
+
+rel_theta = 1.25438
+ref_theta = 2.31963
+theta = 1.06524
+rel_x = -2.08307
+rel_y = 2.24128
+rel_rad = 3.05982
+
+rel_theta = 1.23646
+ref_theta = 2.32065
+theta = 1.08419
+rel_x = -2.08351
+rel_y = 2.23713
+rel_rad = 3.05708
+
+rel_theta = 1.21828
+ref_theta = 2.31742
+theta = 1.09914
+rel_x = -2.07641
+rel_y = 2.244
+rel_rad = 3.05729
+
+rel_theta = 1.20278
+ref_theta = 2.32028
+theta = 1.11751
+rel_x = -2.0814
+rel_y = 2.23653
+rel_rad = 3.05521
+
+rel_theta = 1.18661
+ref_theta = 2.31994
+theta = 1.13333
+rel_x = -2.08051
+rel_y = 2.23711
+rel_rad = 3.05502
+
+rel_theta = 1.16965
+ref_theta = 2.31848
+theta = 1.14883
+rel_x = -2.0781
+rel_y = 2.24105
+rel_rad = 3.05627
+
+rel_theta = 1.15218
+ref_theta = 2.31926
+theta = 1.16708
+rel_x = -2.07994
+rel_y = 2.23954
+rel_rad = 3.05641
+
+rel_theta = 1.13383
+ref_theta = 2.31654
+theta = 1.1827
+rel_x = -2.07409
+rel_y = 2.24549
+rel_rad = 3.05681
+
+rel_theta = 1.1144
+ref_theta = 2.31459
+theta = 1.20019
+rel_x = -2.07005
+rel_y = 2.24986
+rel_rad = 3.05728
+
+rel_theta = 1.09482
+ref_theta = 2.31581
+theta = 1.22099
+rel_x = -2.07414
+rel_y = 2.24882
+rel_rad = 3.05929
+
+rel_theta = 1.07507
+ref_theta = 2.31346
+theta = 1.23839
+rel_x = -2.06828
+rel_y = 2.25305
+rel_rad = 3.05843
+
+rel_theta = 1.05613
+ref_theta = 2.31298
+theta = 1.25684
+rel_x = -2.06726
+rel_y = 2.25414
+rel_rad = 3.05855
+
+rel_theta = 1.03762
+ref_theta = 2.31469
+theta = 1.27707
+rel_x = -2.07265
+rel_y = 2.25227
+rel_rad = 3.06082
+
+rel_theta = 1.02026
+ref_theta = 2.31211
+theta = 1.29185
+rel_x = -2.06672
+rel_y = 2.25748
+rel_rad = 3.06065
+
+rel_theta = 1.00398
+ref_theta = 2.31158
+theta = 1.3076
+rel_x = -2.0669
+rel_y = 2.26005
+rel_rad = 3.06266
+
+rel_theta = 0.989699
+ref_theta = 2.30842
+theta = 1.31872
+rel_x = -2.05954
+rel_y = 2.26635
+rel_rad = 3.06236
+
+rel_theta = 0.976485
+ref_theta = 2.30777
+theta = 1.33128
+rel_x = -2.05855
+rel_y = 2.26824
+rel_rad = 3.0631
+
+rel_theta = 0.965435
+ref_theta = 2.3055
+theta = 1.34006
+rel_x = -2.05507
+rel_y = 2.27476
+rel_rad = 3.06559
+
+rel_theta = 0.955443
+ref_theta = 2.30188
+theta = 1.34644
+rel_x = -2.04849
+rel_y = 2.28403
+rel_rad = 3.06808
+
+rel_theta = 0.948065
+ref_theta = 2.30328
+theta = 1.35522
+rel_x = -2.04891
+rel_y = 2.27807
+rel_rad = 3.06393
+
+rel_theta = 0.939686
+ref_theta = 2.30342
+theta = 1.36374
+rel_x = -2.05004
+rel_y = 2.27869
+rel_rad = 3.06514
+
+rel_theta = 0.93233
+ref_theta = 2.29802
+theta = 1.36569
+rel_x = -2.04107
+rel_y = 2.29351
+rel_rad = 3.0702
+
+rel_theta = 0.925627
+ref_theta = 2.29858
+theta = 1.37295
+rel_x = -2.0418
+rel_y = 2.29176
+rel_rad = 3.06938
+
+rel_theta = 0.921949
+ref_theta = 2.30173
+theta = 1.37978
+rel_x = -2.04485
+rel_y = 2.28067
+rel_rad = 3.06315
+
+rel_theta = 0.917079
+ref_theta = 2.29646
+theta = 1.37938
+rel_x = -2.03704
+rel_y = 2.2962
+rel_rad = 3.06954
+
+rel_theta = 0.917985
+ref_theta = 2.29775
+theta = 1.37977
+rel_x = -2.03818
+rel_y = 2.29151
+rel_rad = 3.06679
+
+rel_theta = 0.918351
+ref_theta = 2.29698
+theta = 1.37863
+rel_x = -2.03787
+rel_y = 2.29474
+rel_rad = 3.06899
+
+rel_theta = 0.918196
+ref_theta = 2.2972
+theta = 1.37901
+rel_x = -2.03707
+rel_y = 2.2928
+rel_rad = 3.06702
+
+rel_theta = 0.918072
+ref_theta = 2.29721
+theta = 1.37914
+rel_x = -2.03762
+rel_y = 2.2934
+rel_rad = 3.06783
+
+rel_theta = 0.916715
+ref_theta = 2.3001
+theta = 1.38339
+rel_x = -2.04305
+rel_y = 2.28615
+rel_rad = 3.06603
+
+rel_theta = 0.916449
+ref_theta = 2.30104
+theta = 1.38459
+rel_x = -2.04494
+rel_y = 2.28396
+rel_rad = 3.06566
+
+rel_theta = 0.91638
+ref_theta = 2.29915
+theta = 1.38277
+rel_x = -2.04087
+rel_y = 2.28806
+rel_rad = 3.06601
+
+rel_theta = 0.916289
+ref_theta = 2.29953
+theta = 1.38324
+rel_x = -2.04221
+rel_y = 2.28785
+rel_rad = 3.06674
+
+rel_theta = 0.916155
+ref_theta = 2.30221
+theta = 1.38605
+rel_x = -2.0455
+rel_y = 2.27921
+rel_rad = 3.06249
+
+rel_theta = 0.91427
+ref_theta = 2.29773
+theta = 1.38346
+rel_x = -2.03789
+rel_y = 2.2913
+rel_rad = 3.06644
+
+rel_theta = 0.915012
+ref_theta = 2.30079
+theta = 1.38578
+rel_x = -2.04304
+rel_y = 2.28297
+rel_rad = 3.06365
+
+rel_theta = 0.914493
+ref_theta = 2.30015
+theta = 1.38566
+rel_x = -2.04149
+rel_y = 2.28418
+rel_rad = 3.06352
+
+rel_theta = 0.915002
+ref_theta = 2.30212
+theta = 1.38712
+rel_x = -2.04434
+rel_y = 2.27831
+rel_rad = 3.06105
+
+rel_theta = 0.914336
+ref_theta = 2.2996
+theta = 1.38527
+rel_x = -2.04012
+rel_y = 2.28517
+rel_rad = 3.06335
+
+rel_theta = 0.915518
+ref_theta = 2.30063
+theta = 1.38511
+rel_x = -2.0409
+rel_y = 2.2813
+rel_rad = 3.06098
+
+rel_theta = 0.91557
+ref_theta = 2.29997
+theta = 1.3844
+rel_x = -2.03976
+rel_y = 2.28305
+rel_rad = 3.06152
+
+rel_theta = 0.9147
+ref_theta = 2.30009
+theta = 1.38539
+rel_x = -2.04199
+rel_y = 2.28499
+rel_rad = 3.06446
+
+rel_theta = 0.915087
+ref_theta = 2.29914
+theta = 1.38405
+rel_x = -2.04001
+rel_y = 2.28717
+rel_rad = 3.06477
+
+rel_theta = 0.915465
+ref_theta = 2.29919
+theta = 1.38372
+rel_x = -2.0407
+rel_y = 2.28773
+rel_rad = 3.06564
+
+rel_theta = 0.915324
+ref_theta = 2.29935
+theta = 1.38403
+rel_x = -2.04132
+rel_y = 2.28765
+rel_rad = 3.066
+
+rel_theta = 0.91691
+ref_theta = 2.29955
+theta = 1.38264
+rel_x = -2.03803
+rel_y = 2.28305
+rel_rad = 3.06037
+
+rel_theta = 0.917166
+ref_theta = 2.30026
+theta = 1.38309
+rel_x = -2.03979
+rel_y = 2.28178
+rel_rad = 3.0606
+
+rel_theta = 0.918174
+ref_theta = 2.299
+theta = 1.38082
+rel_x = -2.03663
+rel_y = 2.28403
+rel_rad = 3.06018
+
+rel_theta = 0.922525
+ref_theta = 2.30031
+theta = 1.37779
+rel_x = -2.03999
+rel_y = 2.28174
+rel_rad = 3.0607
+
+rel_theta = 0.926757
+ref_theta = 2.30089
+theta = 1.37414
+rel_x = -2.04125
+rel_y = 2.28049
+rel_rad = 3.06061
+
+rel_theta = 0.930118
+ref_theta = 2.29894
+theta = 1.36882
+rel_x = -2.03713
+rel_y = 2.28487
+rel_rad = 3.06113
+
+rel_theta = 0.932323
+ref_theta = 2.30198
+theta = 1.36966
+rel_x = -2.04406
+rel_y = 2.27865
+rel_rad = 3.06111
+
+rel_theta = 0.932186
+ref_theta = 2.30192
+theta = 1.36973
+rel_x = -2.04437
+rel_y = 2.27927
+rel_rad = 3.06179
+
+rel_theta = 0.931807
+ref_theta = 2.29981
+theta = 1.368
+rel_x = -2.03873
+rel_y = 2.28266
+rel_rad = 3.06055
+
+rel_theta = 0.932288
+ref_theta = 2.30237
+theta = 1.37009
+rel_x = -2.04506
+rel_y = 2.27795
+rel_rad = 3.06126
+
+rel_theta = 0.93276
+ref_theta = 2.30283
+theta = 1.37007
+rel_x = -2.04623
+rel_y = 2.27717
+rel_rad = 3.06146
+
+rel_theta = 0.933642
+ref_theta = 2.30116
+theta = 1.36751
+rel_x = -2.04251
+rel_y = 2.28069
+rel_rad = 3.0616
+
+rel_theta = 0.936993
+ref_theta = 2.30218
+theta = 1.36519
+rel_x = -2.04407
+rel_y = 2.27772
+rel_rad = 3.06043
+
+rel_theta = 0.938777
+ref_theta = 2.29958
+theta = 1.3608
+rel_x = -2.03847
+rel_y = 2.28342
+rel_rad = 3.06094
+
+rel_theta = 0.938661
+ref_theta = 2.29927
+theta = 1.36061
+rel_x = -2.03745
+rel_y = 2.28368
+rel_rad = 3.06045
+
+rel_theta = 0.937588
+ref_theta = 2.298
+theta = 1.36041
+rel_x = -2.0356
+rel_y = 2.28747
+rel_rad = 3.06206
+
+rel_theta = 0.935801
+ref_theta = 2.29669
+theta = 1.36089
+rel_x = -2.03322
+rel_y = 2.29081
+rel_rad = 3.06298
+
+rel_theta = 0.932588
+ref_theta = 2.29933
+theta = 1.36674
+rel_x = -2.04008
+rel_y = 2.28638
+rel_rad = 3.06422
+
+rel_theta = 0.928935
+ref_theta = 2.29967
+theta = 1.37074
+rel_x = -2.04054
+rel_y = 2.28531
+rel_rad = 3.06373
+
+rel_theta = 0.923849
+ref_theta = 2.29999
+theta = 1.37614
+rel_x = -2.04128
+rel_y = 2.28468
+rel_rad = 3.06375
+
+rel_theta = 0.91755
+ref_theta = 2.30015
+theta = 1.3826
+rel_x = -2.04003
+rel_y = 2.28255
+rel_rad = 3.06134
+
+rel_theta = 0.909909
+ref_theta = 2.30055
+theta = 1.39064
+rel_x = -2.04285
+rel_y = 2.28387
+rel_rad = 3.0642
+
+rel_theta = 0.901182
+ref_theta = 2.30025
+theta = 1.39907
+rel_x = -2.04201
+rel_y = 2.2843
+rel_rad = 3.06395
+
+rel_theta = 0.892019
+ref_theta = 2.30018
+theta = 1.40816
+rel_x = -2.04111
+rel_y = 2.28363
+rel_rad = 3.06285
+
+rel_theta = 0.881589
+ref_theta = 2.29936
+theta = 1.41777
+rel_x = -2.04024
+rel_y = 2.28641
+rel_rad = 3.06436
+
+rel_theta = 0.870518
+ref_theta = 2.29846
+theta = 1.42794
+rel_x = -2.03714
+rel_y = 2.28707
+rel_rad = 3.06278
+
+rel_theta = 0.857154
+ref_theta = 2.2984
+theta = 1.44124
+rel_x = -2.03793
+rel_y = 2.28826
+rel_rad = 3.06419
+
+rel_theta = 0.84234
+ref_theta = 2.29812
+theta = 1.45578
+rel_x = -2.03913
+rel_y = 2.29088
+rel_rad = 3.06695
+
+rel_theta = 0.826693
+ref_theta = 2.29727
+theta = 1.47058
+rel_x = -2.03588
+rel_y = 2.29112
+rel_rad = 3.06497
+
+rel_theta = 0.81086
+ref_theta = 2.29639
+theta = 1.48553
+rel_x = -2.03486
+rel_y = 2.29404
+rel_rad = 3.06648
+
+rel_theta = 0.772648
+ref_theta = 2.29489
+theta = 1.52224
+rel_x = -2.03201
+rel_y = 2.29777
+rel_rad = 3.06737
+
+rel_theta = 0.751885
+ref_theta = 2.29624
+theta = 1.54436
+rel_x = -2.03517
+rel_y = 2.29508
+rel_rad = 3.06746
+
+rel_theta = 0.72942
+ref_theta = 2.29464
+theta = 1.56522
+rel_x = -2.03152
+rel_y = 2.29837
+rel_rad = 3.0675
+
+rel_theta = 0.708736
+ref_theta = 2.29447
+theta = 1.58573
+rel_x = -2.03042
+rel_y = 2.29794
+rel_rad = 3.06645
+
+rel_theta = 0.688884
+ref_theta = 2.29355
+theta = 1.60467
+rel_x = -2.0272
+rel_y = 2.29852
+rel_rad = 3.06476
+
+rel_theta = 0.670056
+ref_theta = 2.29353
+theta = 1.62347
+rel_x = -2.02496
+rel_y = 2.2961
+rel_rad = 3.06146
+
+rel_theta = 0.65171
+ref_theta = 2.29245
+theta = 1.64074
+rel_x = -2.02328
+rel_y = 2.29919
+rel_rad = 3.06267
+
+rel_theta = 0.633463
+ref_theta = 2.29219
+theta = 1.65873
+rel_x = -2.02169
+rel_y = 2.29859
+rel_rad = 3.06117
+
+rel_theta = 0.615973
+ref_theta = 2.29173
+theta = 1.67576
+rel_x = -2.02004
+rel_y = 2.29882
+rel_rad = 3.06025
+
+rel_theta = 0.599789
+ref_theta = 2.29159
+theta = 1.6918
+rel_x = -2.01793
+rel_y = 2.2971
+rel_rad = 3.05757
+
+rel_theta = 0.584898
+ref_theta = 2.29162
+theta = 1.70672
+rel_x = -2.01842
+rel_y = 2.2975
+rel_rad = 3.05819
+
+rel_theta = 0.572056
+ref_theta = 2.28974
+theta = 1.71768
+rel_x = -2.01326
+rel_y = 2.30034
+rel_rad = 3.05692
+
+rel_theta = 0.562734
+ref_theta = 2.28954
+theta = 1.72681
+rel_x = -2.01243
+rel_y = 2.30031
+rel_rad = 3.05636
+
+rel_theta = 0.558129
+ref_theta = 2.28916
+theta = 1.73103
+rel_x = -2.01206
+rel_y = 2.30165
+rel_rad = 3.05713
+
+rel_theta = 0.558626
+ref_theta = 2.28888
+theta = 1.73025
+rel_x = -2.01107
+rel_y = 2.30184
+rel_rad = 3.05661
+
+rel_theta = 0.558452
+ref_theta = 2.28835
+theta = 1.7299
+rel_x = -2.01053
+rel_y = 2.30368
+rel_rad = 3.05764
+
+rel_theta = 0.558479
+ref_theta = 2.2888
+theta = 1.73032
+rel_x = -2.01165
+rel_y = 2.30286
+rel_rad = 3.05776
+
+rel_theta = 0.558319
+ref_theta = 2.28887
+theta = 1.73055
+rel_x = -2.012
+rel_y = 2.30296
+rel_rad = 3.05806
+
+rel_theta = 0.557825
+ref_theta = 2.28882
+theta = 1.73099
+rel_x = -2.01173
+rel_y = 2.30287
+rel_rad = 3.05782
+
+rel_theta = 0.558125
+ref_theta = 2.29012
+theta = 1.73199
+rel_x = -2.01264
+rel_y = 2.29789
+rel_rad = 3.05467
+
+rel_theta = 0.558135
+ref_theta = 2.29028
+theta = 1.73214
+rel_x = -2.0134
+rel_y = 2.298
+rel_rad = 3.05526
+
+rel_theta = 0.558382
+ref_theta = 2.29095
+theta = 1.73257
+rel_x = -2.01349
+rel_y = 2.29499
+rel_rad = 3.05305
+
+rel_theta = 0.557968
+ref_theta = 2.29167
+theta = 1.73371
+rel_x = -2.01381
+rel_y = 2.29201
+rel_rad = 3.05102
+
+rel_theta = 0.559391
+ref_theta = 2.29183
+theta = 1.73244
+rel_x = -2.01224
+rel_y = 2.28948
+rel_rad = 3.04809
+
+rel_theta = 0.558867
+ref_theta = 2.29241
+theta = 1.73354
+rel_x = -2.01399
+rel_y = 2.28883
+rel_rad = 3.04875
+
+rel_theta = 0.558674
+ref_theta = 2.29201
+theta = 1.73334
+rel_x = -2.01348
+rel_y = 2.29007
+rel_rad = 3.04934
+
+rel_theta = 0.559019
+ref_theta = 2.29151
+theta = 1.73249
+rel_x = -2.01176
+rel_y = 2.29044
+rel_rad = 3.04849
+
+rel_theta = 0.558649
+ref_theta = 2.29223
+theta = 1.73359
+rel_x = -2.01423
+rel_y = 2.2899
+rel_rad = 3.04972
+
+rel_theta = 0.558066
+ref_theta = 2.29084
+theta = 1.73278
+rel_x = -2.01317
+rel_y = 2.29511
+rel_rad = 3.05293
+
+rel_theta = 0.558136
+ref_theta = 2.29112
+theta = 1.73298
+rel_x = -2.01453
+rel_y = 2.29541
+rel_rad = 3.05405
+
+rel_theta = 0.55847
+ref_theta = 2.29119
+theta = 1.73272
+rel_x = -2.01386
+rel_y = 2.29429
+rel_rad = 3.05277
+
+rel_theta = 0.557985
+ref_theta = 2.28898
+theta = 1.731
+rel_x = -2.01115
+rel_y = 2.30145
+rel_rad = 3.05637
+
+rel_theta = 0.558372
+ref_theta = 2.28988
+theta = 1.73151
+rel_x = -2.01257
+rel_y = 2.29888
+rel_rad = 3.05537
+
+rel_theta = 0.558205
+ref_theta = 2.28968
+theta = 1.73148
+rel_x = -2.0129
+rel_y = 2.30019
+rel_rad = 3.05658
+
+rel_theta = 0.558489
+ref_theta = 2.28997
+theta = 1.73148
+rel_x = -2.01291
+rel_y = 2.29888
+rel_rad = 3.05559
+
+rel_theta = 0.558307
+ref_theta = 2.28971
+theta = 1.7314
+rel_x = -2.01251
+rel_y = 2.29961
+rel_rad = 3.05588
+
+rel_theta = 0.55852
+ref_theta = 2.29041
+theta = 1.73189
+rel_x = -2.01308
+rel_y = 2.29702
+rel_rad = 3.05431
+
+rel_theta = 0.558008
+ref_theta = 2.29108
+theta = 1.73308
+rel_x = -2.01466
+rel_y = 2.29571
+rel_rad = 3.05436
+
+rel_theta = 0.558343
+ref_theta = 2.29075
+theta = 1.73241
+rel_x = -2.01396
+rel_y = 2.29644
+rel_rad = 3.05445
+
+rel_theta = 0.558483
+ref_theta = 2.2909
+theta = 1.73242
+rel_x = -2.01306
+rel_y = 2.29473
+rel_rad = 3.05257
+
+rel_theta = 0.558175
+ref_theta = 2.29107
+theta = 1.73289
+rel_x = -2.01383
+rel_y = 2.29484
+rel_rad = 3.05316
+
+rel_theta = 0.558528
+ref_theta = 2.29176
+theta = 1.73324
+rel_x = -2.01476
+rel_y = 2.29268
+rel_rad = 3.05216
+
+rel_theta = 0.558264
+ref_theta = 2.29238
+theta = 1.73412
+rel_x = -2.01556
+rel_y = 2.29072
+rel_rad = 3.05121
+
+rel_theta = 0.558363
+ref_theta = 2.29152
+theta = 1.73316
+rel_x = -2.01416
+rel_y = 2.2931
+rel_rad = 3.05208
+
+rel_theta = 0.558766
+ref_theta = 2.29142
+theta = 1.73265
+rel_x = -2.01353
+rel_y = 2.29287
+rel_rad = 3.05149
+
+rel_theta = 0.558722
+ref_theta = 2.29117
+theta = 1.73244
+rel_x = -2.01264
+rel_y = 2.29302
+rel_rad = 3.05101
+
+rel_theta = 0.558172
+ref_theta = 2.2914
+theta = 1.73323
+rel_x = -2.01406
+rel_y = 2.29355
+rel_rad = 3.05234
+
+rel_theta = 0.558863
+ref_theta = 2.29112
+theta = 1.73226
+rel_x = -2.01311
+rel_y = 2.29376
+rel_rad = 3.05187
+
+rel_theta = 0.557986
+ref_theta = 2.2912
+theta = 1.73321
+rel_x = -2.01522
+rel_y = 2.29583
+rel_rad = 3.05482
+
+rel_theta = 0.558204
+ref_theta = 2.29057
+theta = 1.73236
+rel_x = -2.01339
+rel_y = 2.29666
+rel_rad = 3.05424
+
+rel_theta = 0.558637
+ref_theta = 2.29042
+theta = 1.73179
+rel_x = -2.01196
+rel_y = 2.29568
+rel_rad = 3.05256
+
+rel_theta = 0.558397
+ref_theta = 2.28999
+theta = 1.73159
+rel_x = -2.01195
+rel_y = 2.29768
+rel_rad = 3.05405
+
+rel_theta = 0.558187
+ref_theta = 2.29051
+theta = 1.73232
+rel_x = -2.01385
+rel_y = 2.29745
+rel_rad = 3.05513
+
+rel_theta = 0.558351
+ref_theta = 2.28987
+theta = 1.73152
+rel_x = -2.01224
+rel_y = 2.29858
+rel_rad = 3.05492
+
+rel_theta = 0.55864
+ref_theta = 2.28989
+theta = 1.73125
+rel_x = -2.01125
+rel_y = 2.29735
+rel_rad = 3.05335
+
+rel_theta = 0.558231
+ref_theta = 2.28991
+theta = 1.73167
+rel_x = -2.0118
+rel_y = 2.2979
+rel_rad = 3.05413
+
+rel_theta = 0.557542
+ref_theta = 2.28939
+theta = 1.73185
+rel_x = -2.01234
+rel_y = 2.30093
+rel_rad = 3.05676
+
+rel_theta = 0.5584
+ref_theta = 2.28978
+theta = 1.73138
+rel_x = -2.01151
+rel_y = 2.29815
+rel_rad = 3.05412
+
+rel_theta = 0.558278
+ref_theta = 2.29008
+theta = 1.73181
+rel_x = -2.01211
+rel_y = 2.29742
+rel_rad = 3.05397
+
+rel_theta = 0.558018
+ref_theta = 2.29076
+theta = 1.73275
+rel_x = -2.01409
+rel_y = 2.29653
+rel_rad = 3.05461
+
+rel_theta = 0.557851
+ref_theta = 2.2897
+theta = 1.73185
+rel_x = -2.01173
+rel_y = 2.29877
+rel_rad = 3.05474
+
+rel_theta = 0.556425
+ref_theta = 2.29091
+theta = 1.73448
+rel_x = -2.01483
+rel_y = 2.29673
+rel_rad = 3.05524
+
+rel_theta = 0.553358
+ref_theta = 2.28901
+theta = 1.73565
+rel_x = -2.01024
+rel_y = 2.30027
+rel_rad = 3.05488
+
+rel_theta = 0.550765
+ref_theta = 2.28931
+theta = 1.73854
+rel_x = -2.01122
+rel_y = 2.30003
+rel_rad = 3.05534
+
+rel_theta = 0.548215
+ref_theta = 2.28923
+theta = 1.74102
+rel_x = -2.00996
+rel_y = 2.29892
+rel_rad = 3.05368
+
+rel_theta = 0.545297
+ref_theta = 2.2895
+theta = 1.7442
+rel_x = -2.01115
+rel_y = 2.29906
+rel_rad = 3.05457
+
+rel_theta = 0.54393
+ref_theta = 2.28993
+theta = 1.746
+rel_x = -2.01174
+rel_y = 2.29771
+rel_rad = 3.05394
+
+rel_theta = 0.541267
+ref_theta = 2.28906
+theta = 1.74779
+rel_x = -2.00988
+rel_y = 2.29964
+rel_rad = 3.05417
+
+rel_theta = 0.536714
+ref_theta = 2.28951
+theta = 1.7528
+rel_x = -2.0098
+rel_y = 2.29745
+rel_rad = 3.05247
+
+rel_theta = 0.530928
+ref_theta = 2.29052
+theta = 1.75959
+rel_x = -2.01107
+rel_y = 2.29422
+rel_rad = 3.05088
+
+rel_theta = 0.523201
+ref_theta = 2.29095
+theta = 1.76775
+rel_x = -2.0117
+rel_y = 2.29296
+rel_rad = 3.05034
+
+rel_theta = 0.514369
+ref_theta = 2.29062
+theta = 1.77625
+rel_x = -2.01035
+rel_y = 2.29293
+rel_rad = 3.04943
+
+rel_theta = 0.505534
+ref_theta = 2.28993
+theta = 1.7844
+rel_x = -2.00862
+rel_y = 2.29415
+rel_rad = 3.04921
+
+rel_theta = 0.493695
+ref_theta = 2.28896
+theta = 1.79527
+rel_x = -2.00758
+rel_y = 2.29745
+rel_rad = 3.05101
+
+rel_theta = 0.482727
+ref_theta = 2.28803
+theta = 1.8053
+rel_x = -2.00504
+rel_y = 2.29889
+rel_rad = 3.05043
+
+rel_theta = 0.469831
+ref_theta = 2.28726
+theta = 1.81743
+rel_x = -2.00355
+rel_y = 2.30074
+rel_rad = 3.05084
+
+rel_theta = 0.456081
+ref_theta = 2.28726
+theta = 1.83118
+rel_x = -2.00317
+rel_y = 2.30028
+rel_rad = 3.05024
+
+rel_theta = 0.441233
+ref_theta = 2.28719
+theta = 1.84596
+rel_x = -2.00229
+rel_y = 2.29961
+rel_rad = 3.04916
+
+rel_theta = 0.425886
+ref_theta = 2.28641
+theta = 1.86053
+rel_x = -1.9999
+rel_y = 2.30048
+rel_rad = 3.04825
+
+rel_theta = 0.410963
+ref_theta = 2.28543
+theta = 1.87447
+rel_x = -1.99852
+rel_y = 2.30343
+rel_rad = 3.04957
+
+rel_theta = 0.397543
+ref_theta = 2.28451
+theta = 1.88696
+rel_x = -1.99481
+rel_y = 2.30347
+rel_rad = 3.04716
+
+rel_theta = 0.384008
+ref_theta = 2.28439
+theta = 1.90039
+rel_x = -1.99444
+rel_y = 2.30357
+rel_rad = 3.047
+
+rel_theta = 0.369058
+ref_theta = 2.2836
+theta = 1.91454
+rel_x = -1.99298
+rel_y = 2.30557
+rel_rad = 3.04756
+
+rel_theta = 0.35399
+ref_theta = 2.28302
+theta = 1.92903
+rel_x = -1.99095
+rel_y = 2.30593
+rel_rad = 3.0465
+
+rel_theta = 0.337116
+ref_theta = 2.28233
+theta = 1.94521
+rel_x = -1.98897
+rel_y = 2.30687
+rel_rad = 3.04592
+
+rel_theta = 0.318693
+ref_theta = 2.28334
+theta = 1.96464
+rel_x = -1.98942
+rel_y = 2.3027
+rel_rad = 3.04306
+
+rel_theta = 0.29914
+ref_theta = 2.28288
+theta = 1.98374
+rel_x = -1.98684
+rel_y = 2.30184
+rel_rad = 3.04072
+
+rel_theta = 0.279559
+ref_theta = 2.28219
+theta = 2.00263
+rel_x = -1.98512
+rel_y = 2.30305
+rel_rad = 3.04052
+
+rel_theta = 0.259849
+ref_theta = 2.28197
+theta = 2.02212
+rel_x = -1.9832
+rel_y = 2.30186
+rel_rad = 3.03836
+
+rel_theta = 0.241877
+ref_theta = 2.2819
+theta = 2.04003
+rel_x = -1.98112
+rel_y = 2.29974
+rel_rad = 3.0354
+
+rel_theta = 0.225405
+ref_theta = 2.28053
+theta = 2.05512
+rel_x = -1.97705
+rel_y = 2.30141
+rel_rad = 3.03401
+
+rel_theta = 0.210055
+ref_theta = 2.28132
+theta = 2.07127
+rel_x = -1.97819
+rel_y = 2.29903
+rel_rad = 3.03295
+
+rel_theta = 0.197435
+ref_theta = 2.28002
+theta = 2.08258
+rel_x = -1.97516
+rel_y = 2.30158
+rel_rad = 3.03291
+
+rel_theta = 0.187265
+ref_theta = 2.27962
+theta = 2.09235
+rel_x = -1.97325
+rel_y = 2.30122
+rel_rad = 3.03138
+
+rel_theta = 0.17838
+ref_theta = 2.27957
+theta = 2.10119
+rel_x = -1.97435
+rel_y = 2.3027
+rel_rad = 3.03323
+
+rel_theta = 0.173478
+ref_theta = 2.27957
+theta = 2.10609
+rel_x = -1.97307
+rel_y = 2.30123
+rel_rad = 3.03128
+
+rel_theta = 0.170788
+ref_theta = 2.27855
+theta = 2.10776
+rel_x = -1.97297
+rel_y = 2.30587
+rel_rad = 3.03474
+
+rel_theta = 0.172219
+ref_theta = 2.27811
+theta = 2.10589
+rel_x = -1.96905
+rel_y = 2.30335
+rel_rad = 3.03028
+
+rel_theta = 0.171712
+ref_theta = 2.27762
+theta = 2.10591
+rel_x = -1.96966
+rel_y = 2.30634
+rel_rad = 3.03295
+
+rel_theta = 0.171946
+ref_theta = 2.27734
+theta = 2.1054
+rel_x = -1.96864
+rel_y = 2.30643
+rel_rad = 3.03235
+
+rel_theta = 0.172519
+ref_theta = 2.27834
+theta = 2.10582
+rel_x = -1.96941
+rel_y = 2.30268
+rel_rad = 3.03
+
+rel_theta = 0.173284
+ref_theta = 2.27884
+theta = 2.10556
+rel_x = -1.96787
+rel_y = 2.29854
+rel_rad = 3.02586
+
+rel_theta = 0.172862
+ref_theta = 2.27891
+theta = 2.10605
+rel_x = -1.96892
+rel_y = 2.29946
+rel_rad = 3.02724
+
+rel_theta = 0.172187
+ref_theta = 2.27799
+theta = 2.1058
+rel_x = -1.96857
+rel_y = 2.30335
+rel_rad = 3.02997
+
+rel_theta = 0.172805
+ref_theta = 2.27803
+theta = 2.10523
+rel_x = -1.96737
+rel_y = 2.30173
+rel_rad = 3.02796
+
+rel_theta = 0.172822
+ref_theta = 2.27805
+theta = 2.10523
+rel_x = -1.96707
+rel_y = 2.3013
+rel_rad = 3.02743
+
+rel_theta = 0.172166
+ref_theta = 2.27899
+theta = 2.10682
+rel_x = -1.97008
+rel_y = 2.30046
+rel_rad = 3.02875
+
+rel_theta = 0.172431
+ref_theta = 2.27762
+theta = 2.10519
+rel_x = -1.96756
+rel_y = 2.30389
+rel_rad = 3.02972
+
+rel_theta = 0.172764
+ref_theta = 2.279
+theta = 2.10623
+rel_x = -1.96928
+rel_y = 2.29946
+rel_rad = 3.02747
+
+rel_theta = 0.172689
+ref_theta = 2.2779
+theta = 2.10521
+rel_x = -1.96797
+rel_y = 2.30304
+rel_rad = 3.02934
+
+rel_theta = 0.173151
+ref_theta = 2.27869
+theta = 2.10554
+rel_x = -1.97024
+rel_y = 2.30201
+rel_rad = 3.03003
+
+rel_theta = 0.175923
+ref_theta = 2.27906
+theta = 2.10313
+rel_x = -1.97014
+rel_y = 2.30019
+rel_rad = 3.02859
+
+rel_theta = 0.179187
+ref_theta = 2.27865
+theta = 2.09947
+rel_x = -1.96879
+rel_y = 2.3005
+rel_rad = 3.02794
+
+rel_theta = 0.182349
+ref_theta = 2.27873
+theta = 2.09638
+rel_x = -1.9691
+rel_y = 2.30053
+rel_rad = 3.02816
+
+rel_theta = 0.18455
+ref_theta = 2.27951
+theta = 2.09496
+rel_x = -1.97205
+rel_y = 2.30031
+rel_rad = 3.02992
+
+rel_theta = 0.185887
+ref_theta = 2.27877
+theta = 2.09289
+rel_x = -1.96903
+rel_y = 2.30022
+rel_rad = 3.02789
+
+rel_theta = 0.186165
+ref_theta = 2.2785
+theta = 2.09234
+rel_x = -1.96815
+rel_y = 2.30045
+rel_rad = 3.02749
+
+rel_theta = 0.18552
+ref_theta = 2.27814
+theta = 2.09262
+rel_x = -1.96845
+rel_y = 2.30249
+rel_rad = 3.02924
+
+rel_theta = 0.185511
+ref_theta = 2.27846
+theta = 2.09295
+rel_x = -1.96898
+rel_y = 2.30164
+rel_rad = 3.02894
+
+rel_theta = 0.185675
+ref_theta = 2.2792
+theta = 2.09352
+rel_x = -1.97067
+rel_y = 2.30017
+rel_rad = 3.02891
+
+rel_theta = 0.185327
+ref_theta = 2.27865
+theta = 2.09332
+rel_x = -1.97096
+rel_y = 2.30305
+rel_rad = 3.03129
+
+rel_theta = 0.184714
+ref_theta = 2.27768
+theta = 2.09297
+rel_x = -1.96865
+rel_y = 2.30486
+rel_rad = 3.03117
+
+rel_theta = 0.184814
+ref_theta = 2.27851
+theta = 2.09369
+rel_x = -1.97027
+rel_y = 2.30291
+rel_rad = 3.03074
+
+rel_theta = 0.185569
+ref_theta = 2.27925
+theta = 2.09368
+rel_x = -1.97077
+rel_y = 2.30003
+rel_rad = 3.02887
+
+rel_theta = 0.186191
+ref_theta = 2.27776
+theta = 2.09157
+rel_x = -1.96784
+rel_y = 2.30354
+rel_rad = 3.02963
+
+rel_theta = 0.18612
+ref_theta = 2.27938
+theta = 2.09326
+rel_x = -1.97047
+rel_y = 2.29908
+rel_rad = 3.02796
+
+rel_theta = 0.185175
+ref_theta = 2.27816
+theta = 2.09299
+rel_x = -1.96819
+rel_y = 2.30208
+rel_rad = 3.02876
+
+rel_theta = 0.185437
+ref_theta = 2.27923
+theta = 2.09379
+rel_x = -1.97032
+rel_y = 2.29962
+rel_rad = 3.02827
+
+rel_theta = 0.185343
+ref_theta = 2.27947
+theta = 2.09413
+rel_x = -1.97051
+rel_y = 2.29871
+rel_rad = 3.02771
+
+rel_theta = 0.185198
+ref_theta = 2.27954
+theta = 2.09434
+rel_x = -1.97004
+rel_y = 2.29784
+rel_rad = 3.02674
+
+rel_theta = 0.184377
+ref_theta = 2.2798
+theta = 2.09543
+rel_x = -1.97082
+rel_y = 2.29752
+rel_rad = 3.02699
+
+rel_theta = 0.184661
+ref_theta = 2.27904
+theta = 2.09438
+rel_x = -1.97097
+rel_y = 2.30123
+rel_rad = 3.02991
+
+rel_theta = 0.183707
+ref_theta = 2.27878
+theta = 2.09507
+rel_x = -1.9719
+rel_y = 2.30355
+rel_rad = 3.03228
+
+rel_theta = 0.181241
+ref_theta = 2.2782
+theta = 2.09696
+rel_x = -1.97119
+rel_y = 2.30543
+rel_rad = 3.03325
+
+rel_theta = 0.180318
+ref_theta = 2.2783
+theta = 2.09799
+rel_x = -1.97105
+rel_y = 2.30477
+rel_rad = 3.03266
+
+rel_theta = 0.175423
+ref_theta = 2.27873
+theta = 2.10331
+rel_x = -1.97359
+rel_y = 2.30575
+rel_rad = 3.03505
+
+rel_theta = 0.171173
+ref_theta = 2.27777
+theta = 2.10659
+rel_x = -1.97059
+rel_y = 2.30674
+rel_rad = 3.03385
+
+rel_theta = 0.16714
+ref_theta = 2.27731
+theta = 2.11017
+rel_x = -1.96931
+rel_y = 2.30738
+rel_rad = 3.03351
+
+rel_theta = 0.161998
+ref_theta = 2.27758
+theta = 2.11558
+rel_x = -1.97032
+rel_y = 2.30732
+rel_rad = 3.03412
+
+rel_theta = 0.157489
+ref_theta = 2.27794
+theta = 2.12045
+rel_x = -1.96709
+rel_y = 2.30184
+rel_rad = 3.02786
+
+rel_theta = 0.152715
+ref_theta = 2.27833
+theta = 2.12561
+rel_x = -1.96752
+rel_y = 2.30053
+rel_rad = 3.02714
+
+rel_theta = 0.146141
+ref_theta = 2.27897
+theta = 2.13283
+rel_x = -1.96795
+rel_y = 2.29803
+rel_rad = 3.02552
+
+rel_theta = 0.136876
+ref_theta = 2.27914
+theta = 2.14226
+rel_x = -1.96954
+rel_y = 2.29913
+rel_rad = 3.02738
+
+rel_theta = 0.125596
+ref_theta = 2.27873
+theta = 2.15313
+rel_x = -1.96739
+rel_y = 2.29851
+rel_rad = 3.02552
+
+rel_theta = 0.1103
+ref_theta = 2.27741
+theta = 2.16711
+rel_x = -1.96438
+rel_y = 2.30114
+rel_rad = 3.02556
+
+rel_theta = 0.093059
+ref_theta = 2.27768
+theta = 2.18462
+rel_x = -1.96394
+rel_y = 2.29935
+rel_rad = 3.02391
+
+rel_theta = 0.0738345
+ref_theta = 2.27811
+theta = 2.20428
+rel_x = -1.96301
+rel_y = 2.29626
+rel_rad = 3.02097
+
+rel_theta = 0.0534832
+ref_theta = 2.27774
+theta = 2.22426
+rel_x = -1.96177
+rel_y = 2.29653
+rel_rad = 3.02037
+
+rel_theta = 0.0324088
+ref_theta = 2.27706
+theta = 2.24465
+rel_x = -1.9584
+rel_y = 2.29577
+rel_rad = 3.0176
+
+rel_theta = 0.0104122
+ref_theta = 2.27666
+theta = 2.26625
+rel_x = -1.95599
+rel_y = 2.29476
+rel_rad = 3.01527
+
+rel_theta = -0.0104329
+ref_theta = 2.27583
+theta = 2.28626
+rel_x = -1.95246
+rel_y = 2.29452
+rel_rad = 3.01279
+
+rel_theta = -0.0307617
+ref_theta = 2.27525
+theta = 2.30601
+rel_x = -1.94964
+rel_y = 2.2939
+rel_rad = 3.01049
+
+rel_theta = -0.0513633
+ref_theta = 2.27534
+theta = 2.32671
+rel_x = -1.94915
+rel_y = 2.29287
+rel_rad = 3.0094
+
+rel_theta = -0.0688647
+ref_theta = 2.27534
+theta = 2.34421
+rel_x = -1.9446
+rel_y = 2.28751
+rel_rad = 3.00236
+
+rel_theta = -0.0887601
+ref_theta = 2.27496
+theta = 2.36372
+rel_x = -1.94346
+rel_y = 2.28797
+rel_rad = 3.00198
+
+rel_theta = -0.104385
+ref_theta = 2.27479
+theta = 2.37917
+rel_x = -1.93968
+rel_y = 2.28431
+rel_rad = 2.99673
+
+rel_theta = -0.121671
+ref_theta = 2.27305
+theta = 2.39472
+rel_x = -1.93675
+rel_y = 2.28889
+rel_rad = 2.99833
+
+rel_theta = -0.134794
+ref_theta = 2.27396
+theta = 2.40876
+rel_x = -1.93492
+rel_y = 2.28251
+rel_rad = 2.99228
+
+rel_theta = -0.147089
+ref_theta = 2.27383
+theta = 2.42092
+rel_x = -1.93355
+rel_y = 2.28152
+rel_rad = 2.99064
+
+rel_theta = -0.157743
+ref_theta = 2.27336
+theta = 2.4311
+rel_x = -1.93255
+rel_y = 2.28249
+rel_rad = 2.99074
+
+rel_theta = -0.168546
+ref_theta = 2.2737
+theta = 2.44224
+rel_x = -1.92967
+rel_y = 2.27755
+rel_rad = 2.98511
+
+rel_theta = -0.177028
+ref_theta = 2.27291
+theta = 2.44994
+rel_x = -1.92695
+rel_y = 2.27798
+rel_rad = 2.98367
+
+rel_theta = -0.184659
+ref_theta = 2.27325
+theta = 2.45791
+rel_x = -1.92561
+rel_y = 2.27483
+rel_rad = 2.98041
+
+rel_theta = -0.19293
+ref_theta = 2.27369
+theta = 2.46662
+rel_x = -1.92681
+rel_y = 2.27422
+rel_rad = 2.98072
+
+rel_theta = -0.199377
+ref_theta = 2.27226
+theta = 2.47164
+rel_x = -1.92278
+rel_y = 2.27604
+rel_rad = 2.97951
+
+rel_theta = -0.2081
+ref_theta = 2.27275
+theta = 2.48085
+rel_x = -1.92529
+rel_y = 2.27675
+rel_rad = 2.98167
+
+rel_theta = -0.216253
+ref_theta = 2.27426
+theta = 2.49051
+rel_x = -1.92724
+rel_y = 2.27208
+rel_rad = 2.97936
+
+rel_theta = -0.22474
+ref_theta = 2.27262
+theta = 2.49736
+rel_x = -1.92315
+rel_y = 2.27482
+rel_rad = 2.97881
+
+rel_theta = -0.233161
+ref_theta = 2.27268
+theta = 2.50584
+rel_x = -1.92176
+rel_y = 2.27291
+rel_rad = 2.97646
+
+rel_theta = -0.241934
+ref_theta = 2.27172
+theta = 2.51365
+rel_x = -1.92005
+rel_y = 2.27531
+rel_rad = 2.97719
+
+rel_theta = -0.250954
+ref_theta = 2.27119
+theta = 2.52215
+rel_x = -1.91851
+rel_y = 2.2759
+rel_rad = 2.97664
+
+rel_theta = -0.260952
+ref_theta = 2.2722
+theta = 2.53315
+rel_x = -1.91909
+rel_y = 2.27195
+rel_rad = 2.974
+
+rel_theta = -0.271548
+ref_theta = 2.27146
+theta = 2.543
+rel_x = -1.91656
+rel_y = 2.27237
+rel_rad = 2.97269
+
+rel_theta = -0.282453
+ref_theta = 2.27234
+theta = 2.55479
+rel_x = -1.914
+rel_y = 2.26528
+rel_rad = 2.96562
+
+rel_theta = -0.296556
+ref_theta = 2.27037
+theta = 2.56693
+rel_x = -1.90944
+rel_y = 2.26892
+rel_rad = 2.96547
+
+rel_theta = -0.307982
+ref_theta = 2.27009
+theta = 2.57808
+rel_x = -1.90761
+rel_y = 2.26802
+rel_rad = 2.96359
+
+rel_theta = -0.318036
+ref_theta = 2.27109
+theta = 2.58912
+rel_x = -1.90727
+rel_y = 2.26306
+rel_rad = 2.95958
+
+rel_theta = -0.330482
+ref_theta = 2.26867
+theta = 2.59915
+rel_x = -1.90171
+rel_y = 2.26758
+rel_rad = 2.95946
+
+rel_theta = -0.341746
+ref_theta = 2.26852
+theta = 2.61027
+rel_x = -1.89879
+rel_y = 2.26476
+rel_rad = 2.95543
+
+rel_theta = -0.353389
+ref_theta = 2.26786
+theta = 2.62125
+rel_x = -1.89688
+rel_y = 2.26554
+rel_rad = 2.9548
+
+rel_theta = -0.365213
+ref_theta = 2.26774
+theta = 2.63295
+rel_x = -1.89718
+rel_y = 2.26643
+rel_rad = 2.95567
+
+rel_theta = -0.378264
+ref_theta = 2.26703
+theta = 2.64529
+rel_x = -1.89556
+rel_y = 2.26777
+rel_rad = 2.95566
+
+rel_theta = -0.390397
+ref_theta = 2.26485
+theta = 2.65525
+rel_x = -1.8892
+rel_y = 2.27019
+rel_rad = 2.95345
+
+rel_theta = -0.403136
+ref_theta = 2.26281
+theta = 2.66594
+rel_x = -1.88481
+rel_y = 2.27435
+rel_rad = 2.95384
+
+rel_theta = -0.41406
+ref_theta = 2.2615
+theta = 2.67556
+rel_x = -1.88004
+rel_y = 2.27462
+rel_rad = 2.95101
+
+rel_theta = -0.425792
+ref_theta = 2.2592
+theta = 2.68499
+rel_x = -1.87442
+rel_y = 2.2785
+rel_rad = 2.95042
+
+rel_theta = -0.435844
+ref_theta = 2.25852
+theta = 2.69436
+rel_x = -1.86986
+rel_y = 2.2761
+rel_rad = 2.94567
+
+rel_theta = -0.445756
+ref_theta = 2.2584
+theta = 2.70415
+rel_x = -1.86796
+rel_y = 2.27438
+rel_rad = 2.94314
+
+rel_theta = -0.456845
+ref_theta = 2.25677
+theta = 2.71361
+rel_x = -1.8638
+rel_y = 2.27685
+rel_rad = 2.94242
+
+rel_theta = -0.466274
+ref_theta = 2.25587
+theta = 2.72215
+rel_x = -1.85995
+rel_y = 2.27631
+rel_rad = 2.93956
+
+rel_theta = -0.474517
+ref_theta = 2.25595
+theta = 2.73047
+rel_x = -1.85847
+rel_y = 2.27414
+rel_rad = 2.93694
+
+rel_theta = -0.481231
+ref_theta = 2.25427
+theta = 2.7355
+rel_x = -1.85398
+rel_y = 2.27644
+rel_rad = 2.93589
+
+rel_theta = -0.486148
+ref_theta = 2.25355
+theta = 2.73969
+rel_x = -1.8524
+rel_y = 2.27785
+rel_rad = 2.93598
+
+rel_theta = -0.490121
+ref_theta = 2.25293
+theta = 2.74305
+rel_x = -1.85164
+rel_y = 2.27981
+rel_rad = 2.93702
+
+rel_theta = -0.492795
+ref_theta = 2.25353
+theta = 2.74633
+rel_x = -1.85167
+rel_y = 2.27703
+rel_rad = 2.93488
+
+rel_theta = -0.495486
+ref_theta = 2.25263
+theta = 2.74812
+rel_x = -1.84957
+rel_y = 2.27864
+rel_rad = 2.93481
+
+rel_theta = -0.498871
+ref_theta = 2.25297
+theta = 2.75184
+rel_x = -1.85035
+rel_y = 2.27803
+rel_rad = 2.93483
+
+rel_theta = -0.500605
+ref_theta = 2.25301
+theta = 2.75361
+rel_x = -1.84834
+rel_y = 2.27537
+rel_rad = 2.9315
+
+rel_theta = -0.504194
+ref_theta = 2.2516
+theta = 2.75579
+rel_x = -1.84582
+rel_y = 2.27882
+rel_rad = 2.93259
+
+rel_theta = -0.506804
+ref_theta = 2.25151
+theta = 2.75832
+rel_x = -1.84359
+rel_y = 2.27647
+rel_rad = 2.92936
+
+rel_theta = -0.511435
+ref_theta = 2.25006
+theta = 2.76149
+rel_x = -1.84026
+rel_y = 2.27912
+rel_rad = 2.92933
+
+rel_theta = -0.514012
+ref_theta = 2.25001
+theta = 2.76402
+rel_x = -1.83784
+rel_y = 2.27634
+rel_rad = 2.92565
+
+rel_theta = -0.518314
+ref_theta = 2.24921
+theta = 2.76753
+rel_x = -1.83709
+rel_y = 2.27913
+rel_rad = 2.92734
+
+rel_theta = -0.520871
+ref_theta = 2.24898
+theta = 2.76985
+rel_x = -1.83397
+rel_y = 2.27636
+rel_rad = 2.92323
+
+rel_theta = -0.525286
+ref_theta = 2.24838
+theta = 2.77366
+rel_x = -1.83208
+rel_y = 2.27681
+rel_rad = 2.9224
+
+rel_theta = -0.528791
+ref_theta = 2.24816
+theta = 2.77695
+rel_x = -1.83039
+rel_y = 2.27573
+rel_rad = 2.9205
+
+rel_theta = -0.535122
+ref_theta = 2.24822
+theta = 2.78335
+rel_x = -1.83146
+rel_y = 2.27676
+rel_rad = 2.92197
+
+rel_theta = -0.539416
+ref_theta = 2.24779
+theta = 2.7872
+rel_x = -1.82905
+rel_y = 2.27581
+rel_rad = 2.91971
+
+rel_theta = -0.544359
+ref_theta = 2.24708
+theta = 2.79144
+rel_x = -1.82583
+rel_y = 2.27509
+rel_rad = 2.91713
+
+rel_theta = -0.551328
+ref_theta = 2.2461
+theta = 2.79743
+rel_x = -1.82418
+rel_y = 2.27761
+rel_rad = 2.91807
+
+rel_theta = -0.558596
+ref_theta = 2.24644
+theta = 2.80503
+rel_x = -1.82229
+rel_y = 2.27366
+rel_rad = 2.91381
+
+rel_theta = -0.566073
+ref_theta = 2.24662
+theta = 2.8127
+rel_x = -1.82263
+rel_y = 2.27321
+rel_rad = 2.91367
+
+rel_theta = -0.572201
+ref_theta = 2.24564
+theta = 2.81785
+rel_x = -1.81973
+rel_y = 2.27416
+rel_rad = 2.91259
+
+rel_theta = -0.578226
+ref_theta = 2.2448
+theta = 2.82303
+rel_x = -1.81629
+rel_y = 2.27378
+rel_rad = 2.91016
+
+rel_theta = -0.582316
+ref_theta = 2.24516
+theta = 2.82748
+rel_x = -1.81658
+rel_y = 2.27247
+rel_rad = 2.90931
+
+rel_theta = -0.585083
+ref_theta = 2.24521
+theta = 2.8303
+rel_x = -1.81615
+rel_y = 2.2717
+rel_rad = 2.90844
+
+rel_theta = -0.58471
+ref_theta = 2.24383
+theta = 2.82854
+rel_x = -1.8119
+rel_y = 2.27282
+rel_rad = 2.90666
+
+rel_theta = -0.584221
+ref_theta = 2.24492
+theta = 2.82914
+rel_x = -1.81362
+rel_y = 2.26989
+rel_rad = 2.90544
+
+rel_theta = -0.58472
+ref_theta = 2.24415
+theta = 2.82886
+rel_x = -1.81265
+rel_y = 2.2723
+rel_rad = 2.90672
+
+rel_theta = -0.584111
+ref_theta = 2.24471
+theta = 2.82882
+rel_x = -1.81239
+rel_y = 2.26935
+rel_rad = 2.90426
+
+rel_theta = -0.584343
+ref_theta = 2.24646
+theta = 2.8308
+rel_x = -1.81596
+rel_y = 2.26566
+rel_rad = 2.90361
+
+rel_theta = -0.583473
+ref_theta = 2.24535
+theta = 2.82883
+rel_x = -1.81292
+rel_y = 2.26701
+rel_rad = 2.90275
+
+rel_theta = -0.58382
+ref_theta = 2.24593
+theta = 2.82975
+rel_x = -1.81422
+rel_y = 2.26593
+rel_rad = 2.90273
+
+rel_theta = -0.583653
+ref_theta = 2.24515
+theta = 2.8288
+rel_x = -1.81212
+rel_y = 2.26695
+rel_rad = 2.90221
+
+rel_theta = -0.58368
+ref_theta = 2.24482
+theta = 2.8285
+rel_x = -1.8118
+rel_y = 2.26807
+rel_rad = 2.90289
+
+rel_theta = -0.583137
+ref_theta = 2.24489
+theta = 2.82803
+rel_x = -1.81119
+rel_y = 2.26697
+rel_rad = 2.90165
+
+rel_theta = -0.583613
+ref_theta = 2.24523
+theta = 2.82884
+rel_x = -1.81249
+rel_y = 2.26705
+rel_rad = 2.90252
+
+rel_theta = -0.583313
+ref_theta = 2.24491
+theta = 2.82822
+rel_x = -1.81182
+rel_y = 2.26769
+rel_rad = 2.90261
+
+rel_theta = -0.583023
+ref_theta = 2.24528
+theta = 2.8283
+rel_x = -1.8117
+rel_y = 2.26583
+rel_rad = 2.90107
+
+rel_theta = -0.583168
+ref_theta = 2.24544
+theta = 2.82861
+rel_x = -1.81314
+rel_y = 2.26686
+rel_rad = 2.90278
+
+rel_theta = -0.583714
+ref_theta = 2.24523
+theta = 2.82895
+rel_x = -1.81403
+rel_y = 2.26895
+rel_rad = 2.90497
+
+rel_theta = -0.583225
+ref_theta = 2.24533
+theta = 2.82856
+rel_x = -1.8124
+rel_y = 2.26645
+rel_rad = 2.902
+
+rel_theta = -0.583205
+ref_theta = 2.24507
+theta = 2.82828
+rel_x = -1.81229
+rel_y = 2.26752
+rel_rad = 2.90277
+
+rel_theta = -0.583882
+ref_theta = 2.24563
+theta = 2.82952
+rel_x = -1.81374
+rel_y = 2.26673
+rel_rad = 2.90305
+
+rel_theta = -0.582685
+ref_theta = 2.2453
+theta = 2.82798
+rel_x = -1.81119
+rel_y = 2.26509
+rel_rad = 2.90018
+
+rel_theta = -0.583406
+ref_theta = 2.24549
+theta = 2.8289
+rel_x = -1.81252
+rel_y = 2.26585
+rel_rad = 2.90161
+
+rel_theta = -0.582896
+ref_theta = 2.24516
+theta = 2.82806
+rel_x = -1.81215
+rel_y = 2.26694
+rel_rad = 2.90222
+
+rel_theta = -0.582862
+ref_theta = 2.24601
+theta = 2.82887
+rel_x = -1.81307
+rel_y = 2.26415
+rel_rad = 2.90062
+
+rel_theta = -0.582976
+ref_theta = 2.24548
+theta = 2.82846
+rel_x = -1.81248
+rel_y = 2.26586
+rel_rad = 2.90159
+
+rel_theta = -0.582874
+ref_theta = 2.24562
+theta = 2.82849
+rel_x = -1.81294
+rel_y = 2.2658
+rel_rad = 2.90182
+
+rel_theta = -0.582804
+ref_theta = 2.24566
+theta = 2.82847
+rel_x = -1.8123
+rel_y = 2.26479
+rel_rad = 2.90064
+
+rel_theta = -0.583145
+ref_theta = 2.24456
+theta = 2.8277
+rel_x = -1.81069
+rel_y = 2.26792
+rel_rad = 2.90208
+
+rel_theta = -0.582977
+ref_theta = 2.24587
+theta = 2.82884
+rel_x = -1.81275
+rel_y = 2.26442
+rel_rad = 2.90063
+
+rel_theta = -0.58309
+ref_theta = 2.24536
+theta = 2.82845
+rel_x = -1.81213
+rel_y = 2.26597
+rel_rad = 2.90145
+
+rel_theta = -0.582705
+ref_theta = 2.24564
+theta = 2.82834
+rel_x = -1.81239
+rel_y = 2.26503
+rel_rad = 2.90088
+
+rel_theta = -0.582526
+ref_theta = 2.24572
+theta = 2.82824
+rel_x = -1.81261
+rel_y = 2.26493
+rel_rad = 2.90094
+
+rel_theta = -0.583156
+ref_theta = 2.24493
+theta = 2.82809
+rel_x = -1.8125
+rel_y = 2.26843
+rel_rad = 2.90361
+
+rel_theta = -0.583663
+ref_theta = 2.24617
+theta = 2.82983
+rel_x = -1.81466
+rel_y = 2.26537
+rel_rad = 2.90257
+
+rel_theta = -0.583166
+ref_theta = 2.24481
+theta = 2.82797
+rel_x = -1.81178
+rel_y = 2.26811
+rel_rad = 2.90291
+
+rel_theta = -0.583085
+ref_theta = 2.24588
+theta = 2.82896
+rel_x = -1.814
+rel_y = 2.26591
+rel_rad = 2.90257
+
+rel_theta = -0.583099
+ref_theta = 2.24597
+theta = 2.82906
+rel_x = -1.81332
+rel_y = 2.26466
+rel_rad = 2.90117
+
+rel_theta = -0.582662
+ref_theta = 2.24581
+theta = 2.82847
+rel_x = -1.81297
+rel_y = 2.26495
+rel_rad = 2.90118
+
+rel_theta = -0.582737
+ref_theta = 2.24581
+theta = 2.82855
+rel_x = -1.81283
+rel_y = 2.26476
+rel_rad = 2.90095
+
+rel_theta = -0.582695
+ref_theta = 2.24595
+theta = 2.82865
+rel_x = -1.81342
+rel_y = 2.26484
+rel_rad = 2.90137
+
+rel_theta = -0.583138
+ref_theta = 2.24568
+theta = 2.82882
+rel_x = -1.8131
+rel_y = 2.2657
+rel_rad = 2.90185
+
+rel_theta = -0.582884
+ref_theta = 2.2455
+theta = 2.82838
+rel_x = -1.81254
+rel_y = 2.26585
+rel_rad = 2.90162
+
+rel_theta = -0.582712
+ref_theta = 2.24485
+theta = 2.82757
+rel_x = -1.81102
+rel_y = 2.26695
+rel_rad = 2.90152
+
+rel_theta = -0.582585
+ref_theta = 2.24545
+theta = 2.82804
+rel_x = -1.8124
+rel_y = 2.26591
+rel_rad = 2.90157
+
+rel_theta = -0.58279
+ref_theta = 2.24572
+theta = 2.82851
+rel_x = -1.81251
+rel_y = 2.26479
+rel_rad = 2.90077
+
+rel_theta = -0.582993
+ref_theta = 2.24516
+theta = 2.82815
+rel_x = -1.8127
+rel_y = 2.26763
+rel_rad = 2.9031
+
+rel_theta = -0.583353
+ref_theta = 2.24591
+theta = 2.82927
+rel_x = -1.81487
+rel_y = 2.26684
+rel_rad = 2.90385
+
+rel_theta = -0.582839
+ref_theta = 2.24561
+theta = 2.82845
+rel_x = -1.81262
+rel_y = 2.26543
+rel_rad = 2.90134
+
+rel_theta = -0.582269
+ref_theta = 2.24646
+theta = 2.82873
+rel_x = -1.81401
+rel_y = 2.26324
+rel_rad = 2.90049
+
+rel_theta = -0.58273
+ref_theta = 2.24574
+theta = 2.82847
+rel_x = -1.81295
+rel_y = 2.26527
+rel_rad = 2.90142
+
+rel_theta = -0.582288
+ref_theta = 2.2457
+theta = 2.82799
+rel_x = -1.81308
+rel_y = 2.26557
+rel_rad = 2.90174
+
+rel_theta = -0.580768
+ref_theta = 2.24525
+theta = 2.82602
+rel_x = -1.81166
+rel_y = 2.26588
+rel_rad = 2.90109
+
+rel_theta = -0.578506
+ref_theta = 2.24521
+theta = 2.82372
+rel_x = -1.81197
+rel_y = 2.26647
+rel_rad = 2.90174
+
+rel_theta = -0.57518
+ref_theta = 2.24499
+theta = 2.82017
+rel_x = -1.81112
+rel_y = 2.26646
+rel_rad = 2.9012
+
+rel_theta = -0.572088
+ref_theta = 2.24459
+theta = 2.81668
+rel_x = -1.81095
+rel_y = 2.26808
+rel_rad = 2.90236
+
+rel_theta = -0.568147
+ref_theta = 2.24533
+theta = 2.81347
+rel_x = -1.81251
+rel_y = 2.26661
+rel_rad = 2.90219
+
+rel_theta = -0.561696
+ref_theta = 2.24509
+theta = 2.80679
+rel_x = -1.81187
+rel_y = 2.26692
+rel_rad = 2.90203
+
+rel_theta = -0.554906
+ref_theta = 2.24526
+theta = 2.80017
+rel_x = -1.81321
+rel_y = 2.2678
+rel_rad = 2.90356
+
+rel_theta = -0.546458
+ref_theta = 2.24384
+theta = 2.7903
+rel_x = -1.80961
+rel_y = 2.26991
+rel_rad = 2.90296
+
+rel_theta = -0.536063
+ref_theta = 2.24465
+theta = 2.78071
+rel_x = -1.81115
+rel_y = 2.26807
+rel_rad = 2.90248
+
+rel_theta = -0.526513
+ref_theta = 2.24573
+theta = 2.77224
+rel_x = -1.81402
+rel_y = 2.26665
+rel_rad = 2.90316
+
+rel_theta = -0.514854
+ref_theta = 2.24434
+theta = 2.75919
+rel_x = -1.81268
+rel_y = 2.27142
+rel_rad = 2.90605
+
+rel_theta = -0.502006
+ref_theta = 2.24468
+theta = 2.74669
+rel_x = -1.81321
+rel_y = 2.27048
+rel_rad = 2.90566
+
+rel_theta = -0.488356
+ref_theta = 2.24473
+theta = 2.73309
+rel_x = -1.81486
+rel_y = 2.27233
+rel_rad = 2.90813
+
+rel_theta = -0.473829
+ref_theta = 2.24425
+theta = 2.71808
+rel_x = -1.81481
+rel_y = 2.27452
+rel_rad = 2.90981
+
+rel_theta = -0.45996
+ref_theta = 2.24472
+theta = 2.70468
+rel_x = -1.81726
+rel_y = 2.27537
+rel_rad = 2.912
+
+rel_theta = -0.445217
+ref_theta = 2.24394
+theta = 2.68915
+rel_x = -1.81644
+rel_y = 2.27801
+rel_rad = 2.91355
+
+rel_theta = -0.431504
+ref_theta = 2.2428
+theta = 2.67431
+rel_x = -1.81811
+rel_y = 2.28542
+rel_rad = 2.92039
+
+rel_theta = -0.418355
+ref_theta = 2.24246
+theta = 2.66081
+rel_x = -1.82029
+rel_y = 2.28979
+rel_rad = 2.92517
+
+rel_theta = -0.403618
+ref_theta = 2.24226
+theta = 2.64588
+rel_x = -1.8196
+rel_y = 2.28986
+rel_rad = 2.9248
+
+rel_theta = -0.390353
+ref_theta = 2.2435
+theta = 2.63385
+rel_x = -1.82348
+rel_y = 2.28889
+rel_rad = 2.92645
+
+rel_theta = -0.377064
+ref_theta = 2.24236
+theta = 2.61942
+rel_x = -1.82165
+rel_y = 2.29196
+rel_rad = 2.92771
+
+rel_theta = -0.362125
+ref_theta = 2.24295
+theta = 2.60508
+rel_x = -1.82254
+rel_y = 2.29028
+rel_rad = 2.92695
+
+rel_theta = -0.349594
+ref_theta = 2.24219
+theta = 2.59179
+rel_x = -1.82376
+rel_y = 2.2954
+rel_rad = 2.93172
+
+rel_theta = -0.336346
+ref_theta = 2.24238
+theta = 2.57872
+rel_x = -1.82339
+rel_y = 2.29406
+rel_rad = 2.93043
+
+rel_theta = -0.326638
+ref_theta = 2.24302
+theta = 2.56966
+rel_x = -1.82548
+rel_y = 2.29367
+rel_rad = 2.93144
+
+rel_theta = -0.317839
+ref_theta = 2.24267
+theta = 2.56051
+rel_x = -1.82626
+rel_y = 2.29628
+rel_rad = 2.93396
+
+rel_theta = -0.310136
+ref_theta = 2.24337
+theta = 2.55351
+rel_x = -1.827
+rel_y = 2.29391
+rel_rad = 2.93257
+

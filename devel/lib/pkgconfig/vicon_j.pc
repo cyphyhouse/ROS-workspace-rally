@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: vicon_j
+Description: Description of vicon_j
+Version: 1.0.1
+Cflags: -I/home/ubuntu/catkin_ws/devel/include
+Libs: -L/home/ubuntu/catkin_ws/devel/lib 
+Requires: roscpp rospy std_msgs message_runtime

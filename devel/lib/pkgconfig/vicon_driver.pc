@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: vicon_driver
+Description: Description of vicon_driver
+Version: 0.0.2
+Cflags: -I/home/ubuntu/catkin_ws/src/vicon/vicon_driver/include -I/usr/include/eigen3
+Libs: -L/home/ubuntu/catkin_ws/devel/lib -lvicon_driver -lyaml-cpp
+Requires: 

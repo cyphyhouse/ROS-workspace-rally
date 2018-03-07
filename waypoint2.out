@@ -1,0 +1,465 @@
+ref_theta = 2.08528
+theta = -0.417403
+rel_theta = 2.50268
+
+PID equals 2.66667
+ref_theta = 2.85997
+theta = -0.417901
+rel_theta = -3.00531
+
+PID equals -4
+ref_theta = 2.85977
+theta = -0.417221
+rel_theta = -3.00619
+
+PID equals -4
+ref_theta = 2.8598
+theta = -0.417301
+rel_theta = -3.00609
+
+PID equals -4
+ref_theta = 2.85945
+theta = -0.417789
+rel_theta = -3.00595
+
+PID equals -4
+ref_theta = 2.85898
+theta = -0.417436
+rel_theta = -3.00676
+
+PID equals -4
+ref_theta = 2.85946
+theta = -0.416244
+rel_theta = -3.00748
+
+PID equals -4
+ref_theta = 2.85906
+theta = -0.418072
+rel_theta = -3.00605
+
+PID equals -4
+ref_theta = 2.85954
+theta = -0.417524
+rel_theta = -3.00612
+
+PID equals -4
+ref_theta = 2.85989
+theta = -0.418585
+rel_theta = -3.00471
+
+PID equals -4
+ref_theta = 2.85869
+theta = -0.416596
+rel_theta = -3.0079
+
+PID equals -4
+ref_theta = 2.85941
+theta = -0.417698
+rel_theta = -3.00608
+
+PID equals -4
+ref_theta = 2.86072
+theta = -0.417713
+rel_theta = -3.00476
+
+PID equals -4
+ref_theta = 2.86122
+theta = -0.41707
+rel_theta = -3.0049
+
+PID equals -4
+ref_theta = 2.86162
+theta = -0.418705
+rel_theta = -3.00286
+
+PID equals -4
+ref_theta = 2.86087
+theta = -0.421783
+rel_theta = -3.00053
+
+PID equals -4
+ref_theta = 2.86095
+theta = -0.425751
+rel_theta = -2.99648
+
+PID equals -2.66667
+ref_theta = 2.86128
+theta = -0.430778
+rel_theta = -2.99112
+
+PID equals -2.66667
+ref_theta = 2.86169
+theta = -0.435329
+rel_theta = -2.98617
+
+PID equals -2.66667
+ref_theta = 2.86118
+theta = -0.439965
+rel_theta = -2.98204
+
+PID equals -2.66667
+ref_theta = 2.86176
+theta = -0.444948
+rel_theta = -2.97648
+
+PID equals -2.66667
+ref_theta = 2.86077
+theta = -0.450047
+rel_theta = -2.97237
+
+PID equals -2.66667
+ref_theta = 2.86194
+theta = -0.457484
+rel_theta = -2.96376
+
+PID equals -2.66667
+ref_theta = 2.86357
+theta = -0.467913
+rel_theta = -2.9517
+
+PID equals -2.66667
+ref_theta = 2.86409
+theta = -0.476088
+rel_theta = -2.94301
+
+PID equals -2.66667
+ref_theta = 2.86303
+theta = -0.476306
+rel_theta = -2.94385
+
+PID equals -2.66667
+ref_theta = 2.8627
+theta = -0.475236
+rel_theta = -2.94524
+
+PID equals -2.66667
+ref_theta = 2.86405
+theta = -0.474932
+rel_theta = -2.9442
+
+PID equals -2.66667
+ref_theta = 2.86586
+theta = -0.473706
+rel_theta = -2.94362
+
+PID equals -2.66667
+ref_theta = 2.86608
+theta = -0.477273
+rel_theta = -2.93984
+
+PID equals -2.66667
+ref_theta = 2.86509
+theta = -0.48083
+rel_theta = -2.93727
+
+PID equals -2.66667
+ref_theta = 2.86916
+theta = -0.485927
+rel_theta = -2.9281
+
+PID equals -2.66667
+ref_theta = 2.86873
+theta = -0.488985
+rel_theta = -2.92547
+
+PID equals -2.66667
+ref_theta = 2.86535
+theta = -0.491196
+rel_theta = -2.92663
+
+PID equals -2.66667
+ref_theta = 2.86593
+theta = -0.496542
+rel_theta = -2.92071
+
+PID equals -2.66667
+ref_theta = 2.86581
+theta = -0.498428
+rel_theta = -2.91894
+
+PID equals -2.66667
+ref_theta = 2.86524
+theta = -0.497958
+rel_theta = -2.91999
+
+PID equals -2.66667
+ref_theta = 2.86683
+theta = -0.497924
+rel_theta = -2.91844
+
+PID equals -2.66667
+ref_theta = 2.86725
+theta = -0.499981
+rel_theta = -2.91596
+
+PID equals -2.66667
+ref_theta = 2.86869
+theta = -0.502374
+rel_theta = -2.91212
+
+PID equals -2.66667
+ref_theta = 2.86626
+theta = -0.500328
+rel_theta = -2.9166
+
+PID equals -2.66667
+ref_theta = 2.86685
+theta = -0.501584
+rel_theta = -2.91475
+
+PID equals -2.66667
+ref_theta = 2.86917
+theta = -0.505602
+rel_theta = -2.90841
+
+PID equals -2.66667
+ref_theta = 2.86745
+theta = -0.505329
+rel_theta = -2.91041
+
+PID equals -2.66667
+ref_theta = 2.8689
+theta = -0.505569
+rel_theta = -2.90872
+
+PID equals -2.66667
+ref_theta = 2.86785
+theta = -0.505596
+rel_theta = -2.90974
+
+PID equals -2.66667
+ref_theta = 2.86828
+theta = -0.507786
+rel_theta = -2.90712
+
+PID equals -2.66667
+ref_theta = 2.86908
+theta = -0.509345
+rel_theta = -2.90476
+
+PID equals -2.66667
+ref_theta = 2.86899
+theta = -0.511008
+rel_theta = -2.90319
+
+PID equals -2.66667
+ref_theta = 2.86976
+theta = -0.51196
+rel_theta = -2.90147
+
+PID equals -2.66667
+ref_theta = 2.86987
+theta = -0.512435
+rel_theta = -2.90088
+
+PID equals -2.66667
+ref_theta = 2.86835
+theta = -0.511019
+rel_theta = -2.90382
+
+PID equals -2.66667
+ref_theta = 2.86942
+theta = -0.515759
+rel_theta = -2.89801
+
+PID equals -2.66667
+ref_theta = 2.8701
+theta = -0.515898
+rel_theta = -2.89719
+
+PID equals -2.66667
+ref_theta = 2.87066
+theta = -0.516738
+rel_theta = -2.89579
+
+PID equals -2.66667
+ref_theta = 2.86975
+theta = -0.517077
+rel_theta = -2.89636
+
+PID equals -2.66667
+ref_theta = 2.87066
+theta = -0.519328
+rel_theta = -2.8932
+
+PID equals -2.66667
+ref_theta = 2.87079
+theta = -0.52094
+rel_theta = -2.89146
+
+PID equals -2.66667
+ref_theta = 2.87183
+theta = -0.522442
+rel_theta = -2.88891
+
+PID equals -2.66667
+ref_theta = 2.8705
+theta = -0.522563
+rel_theta = -2.89012
+
+PID equals -2.66667
+ref_theta = 2.87142
+theta = -0.524278
+rel_theta = -2.88748
+
+PID equals -2.66667
+ref_theta = 2.87382
+theta = -0.527712
+rel_theta = -2.88165
+
+PID equals -2.66667
+ref_theta = 2.87252
+theta = -0.528167
+rel_theta = -2.8825
+
+PID equals -2.66667
+ref_theta = 2.8738
+theta = -0.528242
+rel_theta = -2.88115
+
+PID equals -2.66667
+ref_theta = 2.87349
+theta = -0.529731
+rel_theta = -2.87996
+
+PID equals -2.66667
+ref_theta = 2.87496
+theta = -0.532619
+rel_theta = -2.87561
+
+PID equals -2.66667
+ref_theta = 2.87248
+theta = -0.530561
+rel_theta = -2.88015
+
+PID equals -2.66667
+ref_theta = 2.87287
+theta = -0.531802
+rel_theta = -2.87851
+
+PID equals -2.66667
+ref_theta = 2.8736
+theta = -0.533198
+rel_theta = -2.87638
+
+PID equals -2.66667
+ref_theta = 2.87397
+theta = -0.535737
+rel_theta = -2.87348
+
+PID equals -2.66667
+ref_theta = 2.87603
+theta = -0.537045
+rel_theta = -2.87011
+
+PID equals -2.66667
+ref_theta = 2.87635
+theta = -0.540297
+rel_theta = -2.86654
+
+PID equals -2.66667
+ref_theta = 2.87734
+theta = -0.542189
+rel_theta = -2.86366
+
+PID equals -2.66667
+ref_theta = 2.87827
+theta = -0.54379
+rel_theta = -2.86112
+
+PID equals -2.66667
+ref_theta = 2.87748
+theta = -0.543573
+rel_theta = -2.86213
+
+PID equals -2.66667
+ref_theta = 2.87835
+theta = -0.544926
+rel_theta = -2.85991
+
+PID equals -2.66667
+ref_theta = 2.87872
+theta = -0.546419
+rel_theta = -2.85804
+
+PID equals -2.66667
+ref_theta = 2.87826
+theta = -0.548464
+rel_theta = -2.85646
+
+PID equals -2.66667
+ref_theta = 2.8795
+theta = -0.54973
+rel_theta = -2.85395
+
+PID equals -2.66667
+ref_theta = 2.87831
+theta = -0.548548
+rel_theta = -2.85632
+
+PID equals -2.66667
+ref_theta = 2.8796
+theta = -0.552158
+rel_theta = -2.85143
+
+PID equals -2.66667
+ref_theta = 2.88025
+theta = -0.553802
+rel_theta = -2.84913
+
+PID equals -2.66667
+ref_theta = 2.87914
+theta = -0.553959
+rel_theta = -2.85009
+
+PID equals -2.66667
+ref_theta = 2.8812
+theta = -0.555801
+rel_theta = -2.84618
+
+PID equals -2.66667
+ref_theta = 2.88206
+theta = -0.557867
+rel_theta = -2.84326
+
+PID equals -2.66667
+ref_theta = 2.88107
+theta = -0.558166
+rel_theta = -2.84395
+
+PID equals -2.66667
+ref_theta = 2.88126
+theta = -0.558269
+rel_theta = -2.84366
+
+PID equals -2.66667
+ref_theta = 2.88221
+theta = -0.560599
+rel_theta = -2.84038
+
+PID equals -2.66667
+ref_theta = 2.87996
+theta = -0.558894
+rel_theta = -2.84433
+
+PID equals -2.66667
+ref_theta = 2.88247
+theta = -0.561493
+rel_theta = -2.83922
+
+PID equals -2.66667
+ref_theta = 2.88492
+theta = -0.567139
+rel_theta = -2.83112
+
+PID equals -2.66667
+ref_theta = 2.88501
+theta = -0.566094
+rel_theta = -2.83208
+
+PID equals -2.66667
+ref_theta = 2.88996
+theta = -0.572545
+rel_theta = -2.82068
+
+PID equals -2.66667

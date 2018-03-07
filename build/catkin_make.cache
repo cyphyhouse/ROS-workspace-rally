@@ -1,0 +1,2 @@
+beginner_tutorials:decawave:race:racecar:razor_imu_9dof:sparkfun_9dof_razor_imu_m0:waypoint_following:week1tutorial
+-DCATKIN_DEVEL_PREFIX=/home/ubuntu/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/ubuntu/catkin_ws/install -G Unix Makefiles

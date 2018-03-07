@@ -1,0 +1,8 @@
+prefix=/home/ubuntu/catkin_ws/devel
+
+Name: vicon_odom
+Description: Description of vicon_odom
+Version: 0.0.2
+Cflags: 
+Libs: -L/home/ubuntu/catkin_ws/devel/lib 
+Requires: vicon tf2_ros

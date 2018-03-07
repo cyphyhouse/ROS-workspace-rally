@@ -1,0 +1,29 @@
+<launch>
+
+	<param name="/use_sim_time" value="false"/>
+	
+	<node pkg="rostopic" type="rostopic" name="initialize_pose" args="pub /initialpose geometry_msgs/PoseWithCovarianceStamped '{header:{seq: 1, stamp: 0, frame_id: map}, pose: {pose: {position:{x: -1.04349027228,  y: -1.74865236292, z: 0.0},orientation:{x: 0.0, y: 0.0, z: 0.00835949011622, w: 0.999965058852}},covariance:[0.24701110040814078, -0.0015484036267048307, 0.0, 0.0, 0.0, 0.0, -0.0015484036267050527, 0.21783562724859262, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.0, 0.06131455358151629]}}'" output="screen"/>
+
+	<node pkg="amcl" type="amcl" name="amcl">
+		<param name="odom_model_type" value="diff"/>
+		<param name="gui_publish_rate" value="1.0"/>
+		<param name="use_map_topic" value="true"/>
+		<param name="first_map_only" value="true"/>
+		<param name="global_frame_id" value="map"/>
+		<param name="base_frame_id" value="base_link"/>
+		<param name="odom_frame_id" value="odom"/>
+		<param name="resample_interval" value="1"/>
+		<param name="transform_tolerance" value="0.1"/>
+		<param name="recovery_alpha_slow" value="0.0"/>
+		<param name="recovery_alpha_fast" value="0.0"/>
+	</node>
+
+	<node pkg="tf" type="static_transform_publisher" name="map_odom" args="0.0 0.0 0.0 0.0 0.0 0.0 /map /odom 10"/>
+
+	<node pkg="tf" type="static_transform_publisher" name="odom_base_link" args="0.0 0.0 0.0 0.0 0.0 0.0 /odom /base_link 10"/>
+
+	<node pkg="tf" type="static_transform_publisher" name="base_link_laser" args="0.0 0.0 0.0 0.0 0.0 0.0 /base_link /laser 10"/>
+
+	<node pkg="rviz" type="rviz" name="rviz"/>
+
+</launch>
