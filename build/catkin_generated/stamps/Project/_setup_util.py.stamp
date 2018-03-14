@@ -263,7 +263,7 @@ if __name__ == '__main__':
             sys.exit(1)
 
         # environment at generation time
-        CMAKE_PREFIX_PATH = '/home/ubuntu/catkin_ws/devel;/opt/ros/indigo'.split(';')
+        CMAKE_PREFIX_PATH = '/media/ubuntu/9C33-6BBD1/f1tenth_code/catkin_ws/devel;/opt/ros/indigo'.split(';')
         # prepend current workspace if not already part of CPP
         base_path = os.path.dirname(__file__)
         if base_path not in CMAKE_PREFIX_PATH:

@@ -121,10 +121,11 @@ IF(NOT CMAKE_INSTALL_LOCAL_ONLY)
   INCLUDE("/home/ubuntu/catkin_ws/build/beginner_tutorials/cmake_install.cmake")
   INCLUDE("/home/ubuntu/catkin_ws/build/decawave/cmake_install.cmake")
   INCLUDE("/home/ubuntu/catkin_ws/build/sparkfun_9dof_razor_imu_m0/cmake_install.cmake")
-  INCLUDE("/home/ubuntu/catkin_ws/build/razor_imu_9dof/cmake_install.cmake")
   INCLUDE("/home/ubuntu/catkin_ws/build/race/cmake_install.cmake")
+  INCLUDE("/home/ubuntu/catkin_ws/build/cs431demo/cmake_install.cmake")
   INCLUDE("/home/ubuntu/catkin_ws/build/waypoint_following/cmake_install.cmake")
   INCLUDE("/home/ubuntu/catkin_ws/build/week1tutorial/cmake_install.cmake")
+  INCLUDE("/home/ubuntu/catkin_ws/build/zed-ros-wrapper-master/cmake_install.cmake")
 
 ENDIF(NOT CMAKE_INSTALL_LOCAL_ONLY)
 

@@ -70,32 +70,9 @@ zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_nodelet.
 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_nodelet.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_nodelet.cpp.o
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o: 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o: /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_node.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_2)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o -c /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_node.cpp
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.i"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_node.cpp > CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.i
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.s"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_node.cpp -o CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.s
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o.requires:
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o.requires
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o.requires
-	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o.provides.build
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o.provides
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o
-
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_node.cpp.o: 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_node.cpp.o: /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/zed_wrapper_node.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_2)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_node.cpp.o"
 	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_node.cpp.o -c /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/zed_wrapper_node.cpp
 
@@ -116,32 +93,78 @@ zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_node.cpp
 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_node.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/zed_wrapper_node.cpp.o
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o: 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o: /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_nodelet.cpp
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o: /home/ubuntu/catkin_ws/src/cs431demo/src/image_converter.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_3)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o -c /home/ubuntu/catkin_ws/src/cs431demo/src/image_converter.cpp
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/cs431demo/src/image_converter.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.i
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/cs431demo/src/image_converter.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.s
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o.requires
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o.provides
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o: /home/ubuntu/catkin_ws/src/cs431demo/src/newApp.cpp
 	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_4)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o -c /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_nodelet.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o -c /home/ubuntu/catkin_ws/src/cs431demo/src/newApp.cpp
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.i"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_nodelet.cpp > CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.i
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/cs431demo/src/newApp.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.i
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.s"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/zed-ros-wrapper-master/src/._zed_wrapper_nodelet.cpp -o CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.s
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/cs431demo/src/newApp.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.s
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o.requires:
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o.requires
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o.requires
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o.requires
-	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o.provides.build
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o.provides
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o.provides
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o: /home/ubuntu/catkin_ws/src/cs431demo/src/objectTracker.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_5)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o -c /home/ubuntu/catkin_ws/src/cs431demo/src/objectTracker.cpp
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/cs431demo/src/objectTracker.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.i
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/cs431demo/src/objectTracker.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.s
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o.requires
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o.provides
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o
 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/src/waypointFollowing.cpp.o: 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/src/waypointFollowing.cpp.o: /home/ubuntu/catkin_ws/src/waypoint_following/src/waypointFollowing.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_5)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_6)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/src/waypointFollowing.cpp.o"
 	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/src/waypointFollowing.cpp.o -c /home/ubuntu/catkin_ws/src/waypoint_following/src/waypointFollowing.cpp
 
@@ -162,9 +185,55 @@ zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/sr
 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/src/waypointFollowing.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/src/waypointFollowing.cpp.o
 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o: /home/ubuntu/catkin_ws/src/decawave/src/decaNode.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_7)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o -c /home/ubuntu/catkin_ws/src/decawave/src/decaNode.cpp
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/decawave/src/decaNode.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.i
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/decawave/src/decaNode.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.s
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o.requires
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o.provides
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o: /home/ubuntu/catkin_ws/src/decawave/src/tdoa.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_8)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o -c /home/ubuntu/catkin_ws/src/decawave/src/tdoa.cpp
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/decawave/src/tdoa.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.i
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/decawave/src/tdoa.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.s
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o.requires
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o.provides
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o
+
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/listener.cpp.o: 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/listener.cpp.o: /home/ubuntu/catkin_ws/src/beginner_tutorials/src/listener.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_6)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_9)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/listener.cpp.o"
 	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/listener.cpp.o -c /home/ubuntu/catkin_ws/src/beginner_tutorials/src/listener.cpp
 
@@ -185,78 +254,32 @@ zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/sr
 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/listener.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/listener.cpp.o
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o: 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o: /home/ubuntu/catkin_ws/src/vicon_j/src/udp.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_7)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o -c /home/ubuntu/catkin_ws/src/vicon_j/src/udp.cpp
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o: /home/ubuntu/catkin_ws/src/beginner_tutorials/src/publisher.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_10)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o -c /home/ubuntu/catkin_ws/src/beginner_tutorials/src/publisher.cpp
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.i"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/vicon_j/src/udp.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.i
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/beginner_tutorials/src/publisher.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.i
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.s"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/vicon_j/src/udp.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.s
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/beginner_tutorials/src/publisher.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.s
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o.requires:
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o.requires
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o.requires
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o.requires
-	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o.provides.build
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o.provides
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o.provides
 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o: 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o: /home/ubuntu/catkin_ws/src/vicon_j/src/vicon.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_8)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o -c /home/ubuntu/catkin_ws/src/vicon_j/src/vicon.cpp
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.i"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/vicon_j/src/vicon.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.i
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.s"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/vicon_j/src/vicon.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.s
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o.requires:
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o.requires
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o.requires
-	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o.provides.build
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o.provides
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o: 
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o: /home/ubuntu/catkin_ws/src/vicon_j/src/main.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_9)
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o -c /home/ubuntu/catkin_ws/src/vicon_j/src/main.cpp
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.i"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/vicon_j/src/main.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.i
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.s"
-	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/vicon_j/src/main.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.s
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o.requires:
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o.requires
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o.requires
-	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o.provides.build
-.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o.provides
-
-zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o
 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.o: 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.o: /home/ubuntu/catkin_ws/src/echotest_lidar/src/lidar_echo.cpp
-	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_10)
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_11)
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.o"
 	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.o -c /home/ubuntu/catkin_ws/src/echotest_lidar/src/lidar_echo.cpp
 
@@ -276,6 +299,75 @@ zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/li
 .PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.o.provides
 
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.o
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o: /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/node.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_12)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o -c /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/node.cpp
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/node.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.i
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/node.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.s
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o.requires
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o.provides
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o: /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/driver.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_13)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o -c /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/driver.cpp
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/driver.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.i
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/driver.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.s
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o.requires
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o.provides
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o: 
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o: /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp
+	$(CMAKE_COMMAND) -E cmake_progress_report /home/ubuntu/catkin_ws/build/CMakeFiles $(CMAKE_PROGRESS_14)
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Building CXX object zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++   $(CXX_DEFINES) $(CXX_FLAGS) -o CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o -c /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.i"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -E /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp > CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.i
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.s"
+	cd /home/ubuntu/catkin_ws/build/zed-ros-wrapper-master && /usr/bin/c++  $(CXX_DEFINES) $(CXX_FLAGS) -S /home/ubuntu/catkin_ws/src/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp -o CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.s
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o.requires:
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o.requires
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o.provides: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o.requires
+	$(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o.provides.build
+.PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o.provides
+
+zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o.provides.build: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o
 
 dummy_zed_wrapper: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper
 dummy_zed_wrapper: zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make

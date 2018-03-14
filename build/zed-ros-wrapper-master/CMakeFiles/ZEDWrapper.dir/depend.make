@@ -9,6 +9,7 @@ zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: 
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/class_loader/class_loader_core.h
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/class_loader/class_loader_exceptions.h
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/class_loader/class_loader_register_macro.h
+zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/class_loader/console_bridge_compatibility.h
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/class_loader/meta_object.h
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/dynamic_reconfigure/BoolParameter.h
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/dynamic_reconfigure/Config.h
@@ -122,6 +123,8 @@ zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: 
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /opt/ros/indigo/include/tf2_ros/transform_broadcaster.h
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /usr/include/eigen3/Eigen/Cholesky
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /usr/include/eigen3/Eigen/Core
+zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /usr/include/eigen3/Eigen/Dense
+zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /usr/include/eigen3/Eigen/Eigen
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /usr/include/eigen3/Eigen/Eigen2Support
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /usr/include/eigen3/Eigen/Eigenvalues
 zed-ros-wrapper-master/CMakeFiles/ZEDWrapper.dir/src/zed_wrapper_nodelet.cpp.o: /usr/include/eigen3/Eigen/Geometry

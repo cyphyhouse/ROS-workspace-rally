@@ -164,48 +164,6 @@ ZEDWrapper/fast:
 .PHONY : ZEDWrapper/fast
 
 # Convenience name for target.
-zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_cpp.dir/rule:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_cpp.dir/rule
-.PHONY : zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-bond_generate_messages_cpp: zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_cpp.dir/rule
-.PHONY : bond_generate_messages_cpp
-
-# fast build rule for target.
-bond_generate_messages_cpp/fast:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_cpp.dir/build.make zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_cpp.dir/build
-.PHONY : bond_generate_messages_cpp/fast
-
-# Convenience name for target.
-zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_lisp.dir/rule:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_lisp.dir/rule
-.PHONY : zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-bond_generate_messages_lisp: zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_lisp.dir/rule
-.PHONY : bond_generate_messages_lisp
-
-# fast build rule for target.
-bond_generate_messages_lisp/fast:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_lisp.dir/build.make zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_lisp.dir/build
-.PHONY : bond_generate_messages_lisp/fast
-
-# Convenience name for target.
-zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_py.dir/rule:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_py.dir/rule
-.PHONY : zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_py.dir/rule
-
-# Convenience name for target.
-bond_generate_messages_py: zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_py.dir/rule
-.PHONY : bond_generate_messages_py
-
-# fast build rule for target.
-bond_generate_messages_py/fast:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_py.dir/build.make zed-ros-wrapper-master/CMakeFiles/bond_generate_messages_py.dir/build
-.PHONY : bond_generate_messages_py/fast
-
-# Convenience name for target.
 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/rule:
 	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/rule
 .PHONY : zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/rule
@@ -274,48 +232,6 @@ dynamic_reconfigure_generate_messages_py: zed-ros-wrapper-master/CMakeFiles/dyna
 dynamic_reconfigure_generate_messages_py/fast:
 	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build.make zed-ros-wrapper-master/CMakeFiles/dynamic_reconfigure_generate_messages_py.dir/build
 .PHONY : dynamic_reconfigure_generate_messages_py/fast
-
-# Convenience name for target.
-zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_cpp.dir/rule:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_cpp.dir/rule
-.PHONY : zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_cpp.dir/rule
-
-# Convenience name for target.
-nodelet_generate_messages_cpp: zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_cpp.dir/rule
-.PHONY : nodelet_generate_messages_cpp
-
-# fast build rule for target.
-nodelet_generate_messages_cpp/fast:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_cpp.dir/build.make zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_cpp.dir/build
-.PHONY : nodelet_generate_messages_cpp/fast
-
-# Convenience name for target.
-zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_lisp.dir/rule:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_lisp.dir/rule
-.PHONY : zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_lisp.dir/rule
-
-# Convenience name for target.
-nodelet_generate_messages_lisp: zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_lisp.dir/rule
-.PHONY : nodelet_generate_messages_lisp
-
-# fast build rule for target.
-nodelet_generate_messages_lisp/fast:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_lisp.dir/build.make zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_lisp.dir/build
-.PHONY : nodelet_generate_messages_lisp/fast
-
-# Convenience name for target.
-zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_py.dir/rule:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f CMakeFiles/Makefile2 zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_py.dir/rule
-.PHONY : zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_py.dir/rule
-
-# Convenience name for target.
-nodelet_generate_messages_py: zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_py.dir/rule
-.PHONY : nodelet_generate_messages_py
-
-# fast build rule for target.
-nodelet_generate_messages_py/fast:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_py.dir/build.make zed-ros-wrapper-master/CMakeFiles/nodelet_generate_messages_py.dir/build
-.PHONY : nodelet_generate_messages_py/fast
 
 # Convenience name for target.
 zed-ros-wrapper-master/CMakeFiles/pcl_msgs_generate_messages_cpp.dir/rule:
@@ -411,6 +327,150 @@ __/beginner_tutorials/src/listener.cpp.s:
 	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/listener.cpp.s
 .PHONY : __/beginner_tutorials/src/listener.cpp.s
 
+__/beginner_tutorials/src/publisher.o: __/beginner_tutorials/src/publisher.cpp.o
+.PHONY : __/beginner_tutorials/src/publisher.o
+
+# target to build an object file
+__/beginner_tutorials/src/publisher.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.o
+.PHONY : __/beginner_tutorials/src/publisher.cpp.o
+
+__/beginner_tutorials/src/publisher.i: __/beginner_tutorials/src/publisher.cpp.i
+.PHONY : __/beginner_tutorials/src/publisher.i
+
+# target to preprocess a source file
+__/beginner_tutorials/src/publisher.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.i
+.PHONY : __/beginner_tutorials/src/publisher.cpp.i
+
+__/beginner_tutorials/src/publisher.s: __/beginner_tutorials/src/publisher.cpp.s
+.PHONY : __/beginner_tutorials/src/publisher.s
+
+# target to generate assembly for a file
+__/beginner_tutorials/src/publisher.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/beginner_tutorials/src/publisher.cpp.s
+.PHONY : __/beginner_tutorials/src/publisher.cpp.s
+
+__/cs431demo/src/image_converter.o: __/cs431demo/src/image_converter.cpp.o
+.PHONY : __/cs431demo/src/image_converter.o
+
+# target to build an object file
+__/cs431demo/src/image_converter.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.o
+.PHONY : __/cs431demo/src/image_converter.cpp.o
+
+__/cs431demo/src/image_converter.i: __/cs431demo/src/image_converter.cpp.i
+.PHONY : __/cs431demo/src/image_converter.i
+
+# target to preprocess a source file
+__/cs431demo/src/image_converter.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.i
+.PHONY : __/cs431demo/src/image_converter.cpp.i
+
+__/cs431demo/src/image_converter.s: __/cs431demo/src/image_converter.cpp.s
+.PHONY : __/cs431demo/src/image_converter.s
+
+# target to generate assembly for a file
+__/cs431demo/src/image_converter.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/image_converter.cpp.s
+.PHONY : __/cs431demo/src/image_converter.cpp.s
+
+__/cs431demo/src/newApp.o: __/cs431demo/src/newApp.cpp.o
+.PHONY : __/cs431demo/src/newApp.o
+
+# target to build an object file
+__/cs431demo/src/newApp.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.o
+.PHONY : __/cs431demo/src/newApp.cpp.o
+
+__/cs431demo/src/newApp.i: __/cs431demo/src/newApp.cpp.i
+.PHONY : __/cs431demo/src/newApp.i
+
+# target to preprocess a source file
+__/cs431demo/src/newApp.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.i
+.PHONY : __/cs431demo/src/newApp.cpp.i
+
+__/cs431demo/src/newApp.s: __/cs431demo/src/newApp.cpp.s
+.PHONY : __/cs431demo/src/newApp.s
+
+# target to generate assembly for a file
+__/cs431demo/src/newApp.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/newApp.cpp.s
+.PHONY : __/cs431demo/src/newApp.cpp.s
+
+__/cs431demo/src/objectTracker.o: __/cs431demo/src/objectTracker.cpp.o
+.PHONY : __/cs431demo/src/objectTracker.o
+
+# target to build an object file
+__/cs431demo/src/objectTracker.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.o
+.PHONY : __/cs431demo/src/objectTracker.cpp.o
+
+__/cs431demo/src/objectTracker.i: __/cs431demo/src/objectTracker.cpp.i
+.PHONY : __/cs431demo/src/objectTracker.i
+
+# target to preprocess a source file
+__/cs431demo/src/objectTracker.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.i
+.PHONY : __/cs431demo/src/objectTracker.cpp.i
+
+__/cs431demo/src/objectTracker.s: __/cs431demo/src/objectTracker.cpp.s
+.PHONY : __/cs431demo/src/objectTracker.s
+
+# target to generate assembly for a file
+__/cs431demo/src/objectTracker.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/cs431demo/src/objectTracker.cpp.s
+.PHONY : __/cs431demo/src/objectTracker.cpp.s
+
+__/decawave/src/decaNode.o: __/decawave/src/decaNode.cpp.o
+.PHONY : __/decawave/src/decaNode.o
+
+# target to build an object file
+__/decawave/src/decaNode.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.o
+.PHONY : __/decawave/src/decaNode.cpp.o
+
+__/decawave/src/decaNode.i: __/decawave/src/decaNode.cpp.i
+.PHONY : __/decawave/src/decaNode.i
+
+# target to preprocess a source file
+__/decawave/src/decaNode.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.i
+.PHONY : __/decawave/src/decaNode.cpp.i
+
+__/decawave/src/decaNode.s: __/decawave/src/decaNode.cpp.s
+.PHONY : __/decawave/src/decaNode.s
+
+# target to generate assembly for a file
+__/decawave/src/decaNode.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/decaNode.cpp.s
+.PHONY : __/decawave/src/decaNode.cpp.s
+
+__/decawave/src/tdoa.o: __/decawave/src/tdoa.cpp.o
+.PHONY : __/decawave/src/tdoa.o
+
+# target to build an object file
+__/decawave/src/tdoa.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.o
+.PHONY : __/decawave/src/tdoa.cpp.o
+
+__/decawave/src/tdoa.i: __/decawave/src/tdoa.cpp.i
+.PHONY : __/decawave/src/tdoa.i
+
+# target to preprocess a source file
+__/decawave/src/tdoa.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.i
+.PHONY : __/decawave/src/tdoa.cpp.i
+
+__/decawave/src/tdoa.s: __/decawave/src/tdoa.cpp.s
+.PHONY : __/decawave/src/tdoa.s
+
+# target to generate assembly for a file
+__/decawave/src/tdoa.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/decawave/src/tdoa.cpp.s
+.PHONY : __/decawave/src/tdoa.cpp.s
+
 __/echotest_lidar/src/lidar_echo.o: __/echotest_lidar/src/lidar_echo.cpp.o
 .PHONY : __/echotest_lidar/src/lidar_echo.o
 
@@ -435,77 +495,77 @@ __/echotest_lidar/src/lidar_echo.cpp.s:
 	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/echotest_lidar/src/lidar_echo.cpp.s
 .PHONY : __/echotest_lidar/src/lidar_echo.cpp.s
 
-__/vicon_j/src/main.o: __/vicon_j/src/main.cpp.o
-.PHONY : __/vicon_j/src/main.o
+__/sparkfun_9dof_razor_imu_m0/src/driver.o: __/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/driver.o
 
 # target to build an object file
-__/vicon_j/src/main.cpp.o:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.o
-.PHONY : __/vicon_j/src/main.cpp.o
+__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/driver.cpp.o
 
-__/vicon_j/src/main.i: __/vicon_j/src/main.cpp.i
-.PHONY : __/vicon_j/src/main.i
+__/sparkfun_9dof_razor_imu_m0/src/driver.i: __/sparkfun_9dof_razor_imu_m0/src/driver.cpp.i
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/driver.i
 
 # target to preprocess a source file
-__/vicon_j/src/main.cpp.i:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.i
-.PHONY : __/vicon_j/src/main.cpp.i
+__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.i
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/driver.cpp.i
 
-__/vicon_j/src/main.s: __/vicon_j/src/main.cpp.s
-.PHONY : __/vicon_j/src/main.s
+__/sparkfun_9dof_razor_imu_m0/src/driver.s: __/sparkfun_9dof_razor_imu_m0/src/driver.cpp.s
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/driver.s
 
 # target to generate assembly for a file
-__/vicon_j/src/main.cpp.s:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/main.cpp.s
-.PHONY : __/vicon_j/src/main.cpp.s
+__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/driver.cpp.s
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/driver.cpp.s
 
-__/vicon_j/src/udp.o: __/vicon_j/src/udp.cpp.o
-.PHONY : __/vicon_j/src/udp.o
+__/sparkfun_9dof_razor_imu_m0/src/node.o: __/sparkfun_9dof_razor_imu_m0/src/node.cpp.o
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/node.o
 
 # target to build an object file
-__/vicon_j/src/udp.cpp.o:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.o
-.PHONY : __/vicon_j/src/udp.cpp.o
+__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.o
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/node.cpp.o
 
-__/vicon_j/src/udp.i: __/vicon_j/src/udp.cpp.i
-.PHONY : __/vicon_j/src/udp.i
+__/sparkfun_9dof_razor_imu_m0/src/node.i: __/sparkfun_9dof_razor_imu_m0/src/node.cpp.i
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/node.i
 
 # target to preprocess a source file
-__/vicon_j/src/udp.cpp.i:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.i
-.PHONY : __/vicon_j/src/udp.cpp.i
+__/sparkfun_9dof_razor_imu_m0/src/node.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.i
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/node.cpp.i
 
-__/vicon_j/src/udp.s: __/vicon_j/src/udp.cpp.s
-.PHONY : __/vicon_j/src/udp.s
+__/sparkfun_9dof_razor_imu_m0/src/node.s: __/sparkfun_9dof_razor_imu_m0/src/node.cpp.s
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/node.s
 
 # target to generate assembly for a file
-__/vicon_j/src/udp.cpp.s:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/udp.cpp.s
-.PHONY : __/vicon_j/src/udp.cpp.s
+__/sparkfun_9dof_razor_imu_m0/src/node.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/node.cpp.s
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/node.cpp.s
 
-__/vicon_j/src/vicon.o: __/vicon_j/src/vicon.cpp.o
-.PHONY : __/vicon_j/src/vicon.o
+__/sparkfun_9dof_razor_imu_m0/src/nodelet.o: __/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/nodelet.o
 
 # target to build an object file
-__/vicon_j/src/vicon.cpp.o:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.o
-.PHONY : __/vicon_j/src/vicon.cpp.o
+__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.o
 
-__/vicon_j/src/vicon.i: __/vicon_j/src/vicon.cpp.i
-.PHONY : __/vicon_j/src/vicon.i
+__/sparkfun_9dof_razor_imu_m0/src/nodelet.i: __/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.i
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/nodelet.i
 
 # target to preprocess a source file
-__/vicon_j/src/vicon.cpp.i:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.i
-.PHONY : __/vicon_j/src/vicon.cpp.i
+__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.i:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.i
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.i
 
-__/vicon_j/src/vicon.s: __/vicon_j/src/vicon.cpp.s
-.PHONY : __/vicon_j/src/vicon.s
+__/sparkfun_9dof_razor_imu_m0/src/nodelet.s: __/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.s
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/nodelet.s
 
 # target to generate assembly for a file
-__/vicon_j/src/vicon.cpp.s:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/vicon_j/src/vicon.cpp.s
-.PHONY : __/vicon_j/src/vicon.cpp.s
+__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.s:
+	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.s
+.PHONY : __/sparkfun_9dof_razor_imu_m0/src/nodelet.cpp.s
 
 __/waypoint_following/src/waypointFollowing.o: __/waypoint_following/src/waypointFollowing.cpp.o
 .PHONY : __/waypoint_following/src/waypointFollowing.o
@@ -530,54 +590,6 @@ __/waypoint_following/src/waypointFollowing.s: __/waypoint_following/src/waypoin
 __/waypoint_following/src/waypointFollowing.cpp.s:
 	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/__/waypoint_following/src/waypointFollowing.cpp.s
 .PHONY : __/waypoint_following/src/waypointFollowing.cpp.s
-
-src/._zed_wrapper_node.o: src/._zed_wrapper_node.cpp.o
-.PHONY : src/._zed_wrapper_node.o
-
-# target to build an object file
-src/._zed_wrapper_node.cpp.o:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.o
-.PHONY : src/._zed_wrapper_node.cpp.o
-
-src/._zed_wrapper_node.i: src/._zed_wrapper_node.cpp.i
-.PHONY : src/._zed_wrapper_node.i
-
-# target to preprocess a source file
-src/._zed_wrapper_node.cpp.i:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.i
-.PHONY : src/._zed_wrapper_node.cpp.i
-
-src/._zed_wrapper_node.s: src/._zed_wrapper_node.cpp.s
-.PHONY : src/._zed_wrapper_node.s
-
-# target to generate assembly for a file
-src/._zed_wrapper_node.cpp.s:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_node.cpp.s
-.PHONY : src/._zed_wrapper_node.cpp.s
-
-src/._zed_wrapper_nodelet.o: src/._zed_wrapper_nodelet.cpp.o
-.PHONY : src/._zed_wrapper_nodelet.o
-
-# target to build an object file
-src/._zed_wrapper_nodelet.cpp.o:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.o
-.PHONY : src/._zed_wrapper_nodelet.cpp.o
-
-src/._zed_wrapper_nodelet.i: src/._zed_wrapper_nodelet.cpp.i
-.PHONY : src/._zed_wrapper_nodelet.i
-
-# target to preprocess a source file
-src/._zed_wrapper_nodelet.cpp.i:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.i
-.PHONY : src/._zed_wrapper_nodelet.cpp.i
-
-src/._zed_wrapper_nodelet.s: src/._zed_wrapper_nodelet.cpp.s
-.PHONY : src/._zed_wrapper_nodelet.s
-
-# target to generate assembly for a file
-src/._zed_wrapper_nodelet.cpp.s:
-	cd /home/ubuntu/catkin_ws/build && $(MAKE) -f zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/build.make zed-ros-wrapper-master/CMakeFiles/dummy_zed_wrapper.dir/src/._zed_wrapper_nodelet.cpp.s
-.PHONY : src/._zed_wrapper_nodelet.cpp.s
 
 src/zed_wrapper_node.o: src/zed_wrapper_node.cpp.o
 .PHONY : src/zed_wrapper_node.o
@@ -640,9 +652,6 @@ help:
 	@echo "... clean"
 	@echo "... depend"
 	@echo "... ZEDWrapper"
-	@echo "... bond_generate_messages_cpp"
-	@echo "... bond_generate_messages_lisp"
-	@echo "... bond_generate_messages_py"
 	@echo "... dummy_zed_wrapper"
 	@echo "... dynamic_reconfigure_gencfg"
 	@echo "... dynamic_reconfigure_generate_messages_cpp"
@@ -653,9 +662,6 @@ help:
 	@echo "... install/local"
 	@echo "... install/strip"
 	@echo "... list_install_components"
-	@echo "... nodelet_generate_messages_cpp"
-	@echo "... nodelet_generate_messages_lisp"
-	@echo "... nodelet_generate_messages_py"
 	@echo "... pcl_msgs_generate_messages_cpp"
 	@echo "... pcl_msgs_generate_messages_lisp"
 	@echo "... pcl_msgs_generate_messages_py"
@@ -666,27 +672,39 @@ help:
 	@echo "... __/beginner_tutorials/src/listener.o"
 	@echo "... __/beginner_tutorials/src/listener.i"
 	@echo "... __/beginner_tutorials/src/listener.s"
+	@echo "... __/beginner_tutorials/src/publisher.o"
+	@echo "... __/beginner_tutorials/src/publisher.i"
+	@echo "... __/beginner_tutorials/src/publisher.s"
+	@echo "... __/cs431demo/src/image_converter.o"
+	@echo "... __/cs431demo/src/image_converter.i"
+	@echo "... __/cs431demo/src/image_converter.s"
+	@echo "... __/cs431demo/src/newApp.o"
+	@echo "... __/cs431demo/src/newApp.i"
+	@echo "... __/cs431demo/src/newApp.s"
+	@echo "... __/cs431demo/src/objectTracker.o"
+	@echo "... __/cs431demo/src/objectTracker.i"
+	@echo "... __/cs431demo/src/objectTracker.s"
+	@echo "... __/decawave/src/decaNode.o"
+	@echo "... __/decawave/src/decaNode.i"
+	@echo "... __/decawave/src/decaNode.s"
+	@echo "... __/decawave/src/tdoa.o"
+	@echo "... __/decawave/src/tdoa.i"
+	@echo "... __/decawave/src/tdoa.s"
 	@echo "... __/echotest_lidar/src/lidar_echo.o"
 	@echo "... __/echotest_lidar/src/lidar_echo.i"
 	@echo "... __/echotest_lidar/src/lidar_echo.s"
-	@echo "... __/vicon_j/src/main.o"
-	@echo "... __/vicon_j/src/main.i"
-	@echo "... __/vicon_j/src/main.s"
-	@echo "... __/vicon_j/src/udp.o"
-	@echo "... __/vicon_j/src/udp.i"
-	@echo "... __/vicon_j/src/udp.s"
-	@echo "... __/vicon_j/src/vicon.o"
-	@echo "... __/vicon_j/src/vicon.i"
-	@echo "... __/vicon_j/src/vicon.s"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/driver.o"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/driver.i"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/driver.s"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/node.o"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/node.i"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/node.s"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/nodelet.o"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/nodelet.i"
+	@echo "... __/sparkfun_9dof_razor_imu_m0/src/nodelet.s"
 	@echo "... __/waypoint_following/src/waypointFollowing.o"
 	@echo "... __/waypoint_following/src/waypointFollowing.i"
 	@echo "... __/waypoint_following/src/waypointFollowing.s"
-	@echo "... src/._zed_wrapper_node.o"
-	@echo "... src/._zed_wrapper_node.i"
-	@echo "... src/._zed_wrapper_node.s"
-	@echo "... src/._zed_wrapper_nodelet.o"
-	@echo "... src/._zed_wrapper_nodelet.i"
-	@echo "... src/._zed_wrapper_nodelet.s"
 	@echo "... src/zed_wrapper_node.o"
 	@echo "... src/zed_wrapper_node.i"
 	@echo "... src/zed_wrapper_node.s"
